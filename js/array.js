@@ -60,4 +60,28 @@ class MyArray {
   }
 }
 
+// ----------------- Examples -----------------
 
+const arr = new MyArray();
+arr.push(10);
+arr.push(20);
+arr.push(30);
+console.log("After Push:", arr);
+
+console.log("Popped:", arr.pop());
+console.log("After Pop:", arr);
+
+// forEach Example
+arr.forEach((val) => console.log("Value:", val));
+
+// map Example
+const doubled = arr.map((val) => val * 2);
+console.log("Mapped (x2):", doubled);
+
+// filter Example
+const filtered = arr.filter((val) => val > 10);
+console.log("Filtered (>10):", filtered);
+
+// reduce Example
+const sum = arr.reduce((acc, val) => acc + val, 0);
+console.log("Reduced Sum:", sum);
