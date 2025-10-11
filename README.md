@@ -21,6 +21,9 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 
 ## 🚀 How to Contribute
 
+⚠️ **Before starting work on any feature or fix, create an issue and get assigned by a maintainer. This ensures no duplicate work and keeps contributions organized.**
+
+
 ### Forking the Repository
 
 1. **Fork this repository** by clicking the "Fork" button at the top right of this page
