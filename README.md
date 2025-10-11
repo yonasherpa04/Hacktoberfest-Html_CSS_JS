@@ -70,22 +70,22 @@ git push origin feature/your-feature-name
 - Make your improvements
 
 ## 📋 Hacktoberfest Guidelines
-✅ Make meaningful contributions - avoid spammy PRs
-✅ Follow the existing code style of the project
-✅ Add comments to your code when necessary
-✅ Test your changes before submitting
-✅ Update documentation if you change functionality
-✅ Be respectful to other contributors
+- ✅ Make meaningful contributions - avoid spammy PRs
+- ✅ Follow the existing code style of the project
+- ✅ Add comments to your code when necessary
+- ✅ Test your changes before submitting
+- ✅ Update documentation if you change functionality
+- ✅ Be respectful to other contributors
 
 ## 🏷️ Labels & Tags
 **Hacktoberfest Topics:**
 hacktoberfest web-development html css javascript beginner-friendly open-source
 
-## Project Tags:
+**Project Tags:**
 frontend web-app javascript-project css-styling dom-manipulation
-👥 Contributors
+### 👥 Contributors
 Our Amazing Contributors ✨
-<a href="https://github.com/your-username/your-repo/graphs/contributors"> <img src="https://contrib.rocks/image?repo=your-username/your-repo" /> </a>
+<a href="https://github.com/abbasabro/Hacktoberfest-Html_CSS_JS/graphs/contributors"> <img src="https://contrib.rocks/image?repo=/your-repo" /> </a>
 Made with contrib.rocks.
 
 Join Our Contributor List!
@@ -109,14 +109,3 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 
 
 
-### This enhanced README includes:
-
-1. **Detailed Forking Instructions** - Step-by-step guide on how to fork and contribute
-2. **Complete Contribution Workflow** - From forking to creating a pull request
-3. **Labels & Tags Section** - Relevant topics for Hacktoberfest and the project
-4. **Contributors Section** - With a dynamic contributors image and welcoming message
-5. **Images Section** - Guidelines for adding images and media
-6. **Help Section** - Resources for contributors who need assistance
-7. **Better Visual Organization** - With emojis and clear section headings
-
-The README is now more comprehensive and follows Hacktoberfest best practices while being welcoming to new contributors.
