@@ -4,16 +4,18 @@ Welcome to our Hacktoberfest repository! This project is open to all developers 
 
 ## Repository Description
 
-This is a web development project that includes HTML, CSS, and JavaScript files. The project structure is simple and clean, making it easy for contributors to understand and add their own features or improvements.
+This respository includes HTML, CSS, and JavaScript files. The folder structure is simple and clean, making it easy for contributors to understand and add their own features or improvements.
 
 ## Project Structure
 ```bash
-├── index.html # Main HTML file
+├── html/ # html files directory
+│ └── index.html # Main html file
 ├── css/ # CSS stylesheets directory
 │ └── style.css # Main stylesheet
 ├── js/ # JavaScript files directory
 │ └── script.js # Main JavaScript file
-├── hello.js # Additional JavaScript module
+├── dsa/ # DSA directory
+│ └── binary_search.js # Main stylesheet
 └── README.md # Project documentation (this file)
 ```
 
@@ -57,17 +59,10 @@ git push origin feature/your-feature-name
 - Submit the pull request!
 
 ## 📁 Folder Structure Details
-- HTML Files: Contains the main structure and content of the web pages
+- HTML Directory: Contains the HTML files you want to share
 - CSS Directory: Stylesheets for styling the web pages
 - JS Directory: JavaScript files for adding interactivity and functionality
-- hello.js: Additional JavaScript module for specific features
-
-## 🎯 Getting Started
-**To get started with this project:**
-- Clone the repository
-- Open index.html in your browser
-- Explore the code structure
-- Make your improvements
+- DSA Directory: Contains all DSA related problems topic wise in js language
 
 ## 📋 Hacktoberfest Guidelines
 - ✅ Make meaningful contributions - avoid spammy PRs
@@ -77,25 +72,17 @@ git push origin feature/your-feature-name
 - ✅ Update documentation if you change functionality
 - ✅ Be respectful to other contributors
 
-## 🏷️ Labels & Tags
-**Hacktoberfest Topics:**
-hacktoberfest web-development html css javascript beginner-friendly open-source
 
-**Project Tags:**
-frontend web-app javascript-project css-styling dom-manipulation
 ### 👥 Contributors
 Our Amazing Contributors ✨
-<a href="https://github.com/abbasabro/Hacktoberfest-Html_CSS_JS/graphs/contributors"> <img src="https://contrib.rocks/image?repo=/your-repo" /> </a>
-Made with contrib.rocks.
+<a href="https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS" />
+</a>
+
 
 Join Our Contributor List!
 Make your first contribution and see your GitHub avatar appear here! Every contribution counts, no matter how small.
 
-### 📸 Images & Media
-- Add screenshots of your changes when relevant
-- Include before/after images for UI changes
-- Use descriptive filenames for any images
-- Optimize images for web use
 
 ### 🆘 Need Help?
 - Check existing issues for similar questions
