@@ -3,3 +3,6 @@
  3. Shurti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441) | [ Added loops.js with examples of all JavaScript loop types | Added functions.js with examples of normal and arrow function implementations |Added strings.js with examples of basic string methods (toUpperCase, toLowerCase, trim, slice, replace, split)
  ]
 4. Krishna Pramod Gaud | [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6) | [Added objectIteration.js demonstrating various ways to iterate over JavaScript objects with proper comments]
+5. Name: Aniket Kumar  
+  GitHub: https://github.com/aniKet0753  
+  Contribution: Implemented ES6 OOP demo (encapsulation, inheritance, polymorphism, abstraction, composition), UI glue, and DSA `binary_search.js`. Added comments and documentation.  
