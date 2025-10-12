@@ -1,0 +1,60 @@
+/* * File: /css/styles.css
+ * Layout: Custom 2x2 grid with complex spanning
+ * Constraint: Use CSS Grid only for the layout structure.
+ */
+
+.grid-container {
+    /* Step 1: Establish the grid context */
+    display: grid;
+    
+    /* Step 2: Define the column structure */
+    /* * Creates three columns: 
+     * - Col 1: Takes 1 fraction of space (for the tall box)
+     * - Col 2: Takes 2 fractions of space (for the wide top box)
+     * - Col 3: Takes 1 fraction of space (for the small right box)
+     */
+    grid-template-columns: 1fr 2fr 1fr;
+
+    /* Step 3: Define the row structure */
+    /* * Creates two rows, each taking 1 fractional unit of height */
+    grid-template-rows: 1fr 1fr;
+
+    /* Spacing between the grid items (the orange lines in the image) */
+    gap: 1.5rem; 
+
+    /* Step 4: Define the placement of grid items using template areas */
+    /* * The layout is defined visually here:
+     * - `tall` spans both rows in the first column.
+     * - `top-center` is in row 1, column 2.
+     * - `top-right` is in row 1, column 3.
+     * - `wide-bottom` spans columns 2 and 3 in row 2.
+     */
+    grid-template-areas: 
+        "tall top-center top-right"
+        "tall wide-bottom wide-bottom";
+}
+
+/* Assigning the grid-area names to the respective HTML elements */
+
+.box-1 {
+    grid-area: tall;
+}
+
+.box-2 {
+    grid-area: top-center;
+}
+
+.box-3 {
+    grid-area: top-right;
+}
+
+.box-4 {
+    grid-area: wide-bottom;
+}
+
+/* Optional: Ensure all boxes have equal height distribution */
+.box-1, .box-2, .box-3, .box-4 {
+    /* Optional: Added for visual appeal and consistent box presentation */
+    border-radius: 0.5rem; 
+    padding: 1rem;
+}

@@ -1,3 +1,4 @@
 | Divya Gandhi | [LinkedIn](https://www.linkedin.com/in/divya-gandhi-) | [GitHub](https://github.com/Digaa2710) | Added a simple demo of asynchronous JavaScript concepts, showcasing data fetching using Promises and Async/Await. |
 | Shurti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441) | Added loops.js, functions.js, strings.js with JavaScript examples |
-| Krishna Gaud | krishnagaud6 | Added CSS Grid Component with HTML and CSS layout |
+| Krishna Gaud |  [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6) | Added CSS Grid Component with HTML and CSS layout |
+| Krishna Gaud | [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6) | Added memoization.js demonstrating generic memoization function for factorial and sum examples |

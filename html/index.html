@@ -4,29 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Grid Image Layout</title>
-    
-    <!-- Optional: Tailwind CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Custom CSS -->
     <link rel="stylesheet" href="../css/styles.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary-orange': '#f97316', /* A shade of orange similar to the image */
+                        'secondary-cream': '#fdf2e9', /* A light cream/beige color */
+                    }
+                }
+            }
+        }
+    </script>
 </head>
 <body class="p-8 h-screen bg-primary-orange">
 
-    <div class="grid-container">
+    <div class="grid-container w-full h-full p-4 border-8 border-primary-orange">
+        
         <div class="box-1 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
             Box 1 (Tall Left)
         </div>
+        
         <div class="box-2 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
             Box 2 (Top Center)
         </div>
+        
         <div class="box-3 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
             Box 3 (Top Right)
         </div>
+        
         <div class="box-4 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
             Box 4 (Wide Bottom)
         </div>
-    </div>
 
+    </div>
+    
 </body>
 </html>
