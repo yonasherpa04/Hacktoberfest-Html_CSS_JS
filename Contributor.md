@@ -1,2 +1,4 @@
  1. B Srinivas Reddy | [Linkedin Profile](https://www.linkedin.com/in/bsrinivasreddy) | [Github Profile](https://github.com/srinivasr) | [ Update and enhance the README file and contributors.md file / update readme file of different things ]
  2. Divya Gandhi | [LinkedIn](https://www.linkedin.com/in/divya-gandhi-) | [GitHub](https://github.com/Digaa2710) | [Added a simple demo of asynchronous JavaScript concepts, showcasing data fetching using Promises and Async/Await. ]
+ 3. Shurti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441) | [ Added loops.js with examples of all JavaScript loop types | Added functions.js with examples of normal and arrow function implementations |Added strings.js with examples of basic string methods (toUpperCase, toLowerCase, trim, slice, replace, split)
+ ]
