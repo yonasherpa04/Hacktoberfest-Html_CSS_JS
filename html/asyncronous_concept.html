@@ -1,0 +1,56 @@
+<!-- 
+  asynchronous-concepts.html
+
+  This HTML file demonstrates the concepts of asynchronous JavaScript using 
+  Promises and Async/Await. It provides a simple UI with buttons to:
+    - Fetch data from the JSONPlaceholder API using Promises
+    - Fetch data from the JSONPlaceholder API using Async/Await
+    - Clear the output logs
+
+  The page contains two sections to show the results of each approach side by side.
+  The actual JavaScript logic for fetching and handling the API responses is included
+  in 'asyncronous_concept.js'.
+-->
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Asynchronous Concepts — Promises & Async/Await</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 20px; line-height: 1.5; }
+    h1 { margin-bottom: 6px; }
+    .container { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 12px; }
+    .card { padding: 12px; border: 1px solid #ddd; border-radius: 8px; background: #fafafa; }
+    .buttons { margin-bottom: 8px; }
+    button { margin-right: 8px; padding: 8px 12px; border-radius: 6px; border: 1px solid #888; background: white; cursor: pointer; }
+    pre { white-space: pre-wrap; word-break: break-word; font-family: inherit; }
+  </style>
+</head>
+<body>
+  <h1>Asynchronous Concepts — Promises & Async/Await</h1>
+  <p>Uses <code>fetch()</code> to call the free JSONPlaceholder API. No external dependency required. Save <code>asyncronous_concept.js</code> in the same folder and include it below.</p>
+
+  <div class="buttons">
+    <button onclick="clearLogs()">Clear Logs</button>
+    <button onclick="fetchWithPromises()">Fetch (Promises)</button>
+    <button onclick="fetchWithAsyncAwait()">Fetch (Async/Await)</button>
+  </div>
+
+  <div class="container">
+    <div class="card">
+      <h3>Promises Output</h3>
+      <div id="promises-logs"><em>Click "Fetch (Promises)" to run.</em></div>
+    </div>
+
+    <div class="card">
+      <h3>Async/Await Output</h3>
+      <div id="async-logs"><em>Click "Fetch (Async/Await)" to run.</em></div>
+    </div>
+  </div>
+
+ 
+  <script src="../js/asyncronous_concept.js"></script>
+</body>
+</html>

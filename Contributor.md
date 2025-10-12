@@ -1,1 +1,2 @@
  1. B Srinivas Reddy | [Linkedin Profile](https://www.linkedin.com/in/bsrinivasreddy) | [Github Profile](https://github.com/srinivasr) | [ Update and enhance the README file and contributors.md file / update readme file of different things ]
+ 2. Divya Gandhi | [LinkedIn](https://www.linkedin.com/in/divya-gandhi-) | [GitHub](https://github.com/Digaa2710) | [Added a simple demo of asynchronous JavaScript concepts, showcasing data fetching using Promises and Async/Await. ]
