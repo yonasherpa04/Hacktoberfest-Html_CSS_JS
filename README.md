@@ -11,7 +11,7 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 ├── html/ # html files directory
 │ └── index.html # Main html file
 ├── css/ # CSS stylesheets directory
-│ └── style.css # Main stylesheet
+│ └── style.css # Main styleshee
 ├── js/ # JavaScript files directory
 │ └── script.js # Main JavaScript file
 ├── dsa/ # DSA directory
@@ -20,6 +20,9 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 ```
 
 ## 🚀 How to Contribute
+
+⚠️ **Before starting work on any feature or fix, create an issue and get assigned by a maintainer. This ensures no duplicate work and keeps contributions organized.**
+
 
 ### Forking the Repository
 
@@ -57,6 +60,13 @@ git push origin feature/your-feature-name
 - Select your branch from your forked repository
 - Add a descriptive title and explanation of your changes
 - Submit the pull request!
+🧾 Add Yourself to the Contributors List
+
+After submitting your contribution, add yourself to Contributor.md:
+Format:
+1. Your Name | [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username) | [Short Task Description]
+Example:
+1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) | Added Bento Grid example in HTML/CSS
 
 ## 📁 Folder Structure Details
 - HTML Directory: Contains the HTML files you want to share
