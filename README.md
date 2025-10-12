@@ -68,6 +68,8 @@ Format:
 Example:
 1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) | Added Bento Grid example in HTML/CSS
 
+**Note :** If your name is already there, then just add the '|' and add your next work intro. Ensure no duplicate entry should be there.
+
 ## 📁 Folder Structure Details
 - HTML Directory: Contains the HTML files you want to share
 - CSS Directory: Stylesheets for styling the web pages
