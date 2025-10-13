@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>OOP in JavaScript (ES6)</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="../css/style2.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>OOP in JavaScript (ES6)</h1>
+      <p class="muted">
+        This page demonstrates abstraction, encapsulation, inheritance, polymorphism, composition, and static utilities.
+      </p>
+
+      <section class="controls">
+        <button id="seedBtn">Seed Example Data</button>
+        <button id="addEmployeeBtn">Add Employee</button>
+        <button id="addManagerBtn">Add Manager</button>
+        <button id="giveRaiseBtn">Give 10% Raise To All</button>
+        <button id="calcPayrollBtn">Calculate Payroll</button>
+        <button id="clearBtn" class="danger">Clear</button>
+      </section>
+
+      <section class="grid">
+        <div class="card">
+          <h2>Department</h2>
+          <div id="deptMeta"></div>
+          <table>
+            <thead>
+              <tr>
+                <th>#ID</th>
+                <th>Name</th>
+                <th>Role</th>
+                <th>Salary</th>
+                <th>Description</th>
+              </tr>
+            </thead>
+            <tbody id="peopleTable"></tbody>
+          </table>
+        </div>
+
+        <div class="card">
+          <h2>Console Output</h2>
+          <pre id="consoleOut" class="console"></pre>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="../js/script.js"></script>
+    <script type="module" src="../dsa/binary_search.js"></script>
+  </body>
+</html>

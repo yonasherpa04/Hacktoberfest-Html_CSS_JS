@@ -106,5 +106,18 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
 
+# OOP in JavaScript using ES6 Classes
 
+This project demonstrates key Object-Oriented Programming (OOP) principles using ES6 classes:
 
+- **Encapsulation:** Private fields using `#` and getters/setters  
+- **Inheritance:** `Person → Employee → Manager`  
+- **Polymorphism:** Overridden `describe()` and `calculatePay()` methods  
+- **Abstraction:** Base abstract class `PersonLike`  
+- **Composition:** `Department` manages multiple Person objects  
+
+## DSA: Binary Search
+`binary_search.js` implements standard and generic binary search functions.
+
+## Contributor
+See `Contributor.md` for contributor details.
