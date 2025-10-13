@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,27 +19,27 @@
         }
     </script>
 </head>
-
 <body class="p-8 h-screen bg-primary-orange">
 
-    <div class="frame">
-
-        <div class="stage">
-
-            <div class="box box--left" aria-label="Left tall box"></div>
-
-
-            <div class="right-col">
-                <div class="top-row">
-                    <div class="box box--topwide" aria-label="Top wide box"></div>
-                    <div class="box box--topnarrow" aria-label="Top narrow box"></div>
-                </div>
-
-                <div class="box box--bottom" aria-label="Bottom wide box"></div>
-            </div>
+    <div class="grid-container w-full h-full p-4 border-8 border-primary-orange">
+        
+        <div class="box-1 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
+            Box 1 (Tall Left)
         </div>
+        
+        <div class="box-2 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
+            Box 2 (Top Center)
+        </div>
+        
+        <div class="box-3 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
+            Box 3 (Top Right)
+        </div>
+        
+        <div class="box-4 bg-secondary-cream flex items-center justify-center text-2xl font-bold text-gray-800">
+            Box 4 (Wide Bottom)
+        </div>
+
     </div>
-
+    
 </body>
-
 </html>

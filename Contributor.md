@@ -7,3 +7,5 @@
 6. Name: Aniket Kumar  
   GitHub: https://github.com/aniKet0753  
   Contribution: Implemented ES6 OOP demo (encapsulation, inheritance, polymorphism, abstraction, composition), UI glue, and DSA `binary_search.js`. Added comments and documentation.  
+
+7.Kiran Satdive | [LinkedIn](https://www.linkedin.com/in/kiran-satdive/) | [GitHub](https://github.com/kiransatdive) | [Create Layout in HTML using CSS flex]
