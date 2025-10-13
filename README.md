@@ -121,3 +121,19 @@ This project demonstrates key Object-Oriented Programming (OOP) principles using
 
 ## Contributor
 See `Contributor.md` for contributor details.
+
+# 📰 News Explorer
+
+A simple **News Application** built using **HTML, CSS, and JavaScript**, that allows users to search for the latest news by category, city, or keyword using the **GNews API**.
+
+##  Features
+- Search news by **keyword, city, or country**
+- Filter by category (Sports, Technology, etc.)
+- Display top 10 results in beautiful card UI
+- Responsive and clean interface
+
+## 🧰 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Fetch API)
+- [GNews API]

@@ -7,3 +7,6 @@
 6. Name: Aniket Kumar  
   GitHub: https://github.com/aniKet0753  
   Contribution: Implemented ES6 OOP demo (encapsulation, inheritance, polymorphism, abstraction, composition), UI glue, and DSA `binary_search.js`. Added comments and documentation.  
+7. | Name      | GitHub Username |                                              | Contribution |
+|------|------------------|------------------------------------------------------------|
+| Ankit Kumar | [aniKet0753](https://github.com/aniKet0753) | Built News Application (HTML, CSS, JS) |
