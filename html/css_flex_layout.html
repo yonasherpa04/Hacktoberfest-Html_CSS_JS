@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Flex Image Layout</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../css/flex_layout.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary-orange': '#f97316', /* A shade of orange similar to the image */
+                        'secondary-cream': '#fdf2e9', /* A light cream/beige color */
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="p-8 h-screen bg-primary-orange">
+
+    <div class="frame">
+
+        <div class="stage">
+
+            <div class="box box--left" aria-label="Left tall box"></div>
+
+
+            <div class="right-col">
+                <div class="top-row">
+                    <div class="box box--topwide" aria-label="Top wide box"></div>
+                    <div class="box box--topnarrow" aria-label="Top narrow box"></div>
+                </div>
+
+                <div class="box box--bottom" aria-label="Bottom wide box"></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

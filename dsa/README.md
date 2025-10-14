@@ -4,21 +4,28 @@ This folder is meant for **JavaScript-based DSA problems and solutions**.
 It is structured **topic-wise** so contributors can easily navigate and add new problems.
 
 ## 🧩 Folder Structure
+```
 dsa/
 │
 ├── array/
-│ ├── reverseArray.js
-│ ├── findDuplicate.js
+│   ├── findDuplicate.js
+│   └── reverseArray.js
 │
 ├── string/
-│ ├── palindromeCheck.js
-│ ├── countVowels.js
+│   ├── countVowels.js
+│   └── palindromeCheck.js
 │
 ├── linkedlist/
-│ ├── reverseLinkedList.js
+│   └── reverseLinkedList.js
 │
-└── tree/
-├── inorderTraversal.js
+├── tree/
+│   └── inorderTraversal.js
+│
+├── binary_search.js
+├── index.js         // Node.js test runner for all functions
+├── package.json
+└── README.md
+```
 
 ## 🚀 Contribution Guidelines
 1. Each topic (like `array`, `string`, `tree`) should have its own folder.
@@ -49,5 +56,21 @@ function findMax(arr) {
 
 // Example
 console.log(findMax([1, 3, 2, 5, 4])); // Output: 5
+```
+## Getting Started
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) (version 14 or higher) installed on your machine.
 
-
+### Installation
+1.  Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd dsa
+    ```
+3.  Run the following command:
+    ```bash
+    npm start
+    ```

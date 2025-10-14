@@ -64,11 +64,14 @@ git push origin feature/your-feature-name
 
 After submitting your contribution, add yourself to Contributor.md:
 Format:
-1. Your Name | [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username) | [Short Task Description]
-Example:
-1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) | Added Bento Grid example in HTML/CSS
+1. Your Name | [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username) 
+    - [Short Task Description]
 
-**Note :** If your name is already there, then just add the '|' and add your next work intro. Ensure no duplicate entry should be there.
+Example:
+1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) 
+    - Added Bento Grid example in HTML/CSS
+
+#### `**Note :** If your name is already there, then just move to next line add two tab  and add your next work intro. Ensure no duplicate entry should be there.`
 
 ## 📁 Folder Structure Details
 - HTML Directory: Contains the HTML files you want to share
@@ -86,13 +89,18 @@ Example:
 
 
 ### 👥 Contributors
-Our Amazing Contributors ✨
+#### **Our Amazing Contributors ✨** <br>
+
 <a href="https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS" />
+  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=1"/>
 </a>
+<br>
+<br>
 
-
-Join Our Contributor List!
+![Alt](https://repobeats.axiom.co/api/embed/e7ba80a6b0171e01f8181c48f77a2db32b3bbd94.svg)
+<br>
+<br>
+### **Join Our Contributor List!** <br>
 Make your first contribution and see your GitHub avatar appear here! Every contribution counts, no matter how small.
 
 
@@ -105,35 +113,3 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 ### Happy coding and happy Hacktoberfest! 🎃
 
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
-
-# OOP in JavaScript using ES6 Classes
-
-This project demonstrates key Object-Oriented Programming (OOP) principles using ES6 classes:
-
-- **Encapsulation:** Private fields using `#` and getters/setters  
-- **Inheritance:** `Person → Employee → Manager`  
-- **Polymorphism:** Overridden `describe()` and `calculatePay()` methods  
-- **Abstraction:** Base abstract class `PersonLike`  
-- **Composition:** `Department` manages multiple Person objects  
-
-## DSA: Binary Search
-`binary_search.js` implements standard and generic binary search functions.
-
-## Contributor
-See `Contributor.md` for contributor details.
-
-# 📰 News Explorer
-
-A simple **News Application** built using **HTML, CSS, and JavaScript**, that allows users to search for the latest news by category, city, or keyword using the **GNews API**.
-
-##  Features
-- Search news by **keyword, city, or country**
-- Filter by category (Sports, Technology, etc.)
-- Display top 10 results in beautiful card UI
-- Responsive and clean interface
-
-## 🧰 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Fetch API)
-- [GNews API]
