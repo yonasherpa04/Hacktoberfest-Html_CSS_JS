@@ -15,6 +15,7 @@ export function countVowels(str) {
 }
 
 // tiny self-checks in console
+if (typeof window !== "undefined")
 (function selfTest() {
 	const testStrings = ["Hello World", "DSA is fun!", "JavaScript", "AEIOU", "xyz"];
 	testStrings.forEach(str => {

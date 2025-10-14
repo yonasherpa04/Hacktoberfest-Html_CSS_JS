@@ -27,6 +27,7 @@ export function isPalindromeIterative(str) {
 }
 
 // tiny self-checks in console
+if (typeof window !== "undefined")
 (function selfTest() {
 	const testStrings = ["Racecar", "A man a plan a canal Panama", "Hello", "12321", "Not a palindrome"];
 	testStrings.forEach(str => {

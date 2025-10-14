@@ -27,6 +27,7 @@ export function inorderTraversal(root) {
 }
 
 // tiny self-checks in console
+if (typeof window !== "undefined")
 (function selfTest() {
 	const root = new TreeNode(1);
 	root.left = new TreeNode(5);

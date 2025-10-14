@@ -15,6 +15,7 @@ export function findDuplicate(nums) {
 }
 
 // tiny self-checks in console
+if (typeof window !== "undefined")
 (function selfTest() {
 	console.log(findDuplicate([1, 2, 3, 4, 5])); // false
 	console.log(findDuplicate([1, 2, 3, 4, 5, 3])); // true

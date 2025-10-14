@@ -15,6 +15,7 @@ export function reverseArray(arr) {
 }
 
 // tiny self-checks in console
+if (typeof window !== "undefined")
 (function selfTest() {
 	console.log(reverseArray([1, 2, 3, 4, 5])); // [5, 4, 3, 2, 1]
 	console.log(reverseArray(['a', 'b', 'c'])); // ['c', 'b', 'a']

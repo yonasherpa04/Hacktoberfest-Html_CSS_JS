@@ -1,0 +1,13 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "This folder is meant for **JavaScript-based DSA problems and solutions**.  \r It is structured **topic-wise** so contributors can easily navigate and add new problems.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "ayaantuts",
+  "license": "ISC",
+  "type": "module"
+}
