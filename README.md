@@ -86,15 +86,18 @@ Example:
 
 
 ### 👥 Contributors
-Our Amazing Contributors ✨ </br>
+#### **Our Amazing Contributors ✨** <br>
 
 <a href="https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS" anon={1}/>
+  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=1"/>
 </a>
+<br>
+<br>
 
 ![Alt](https://repobeats.axiom.co/api/embed/e7ba80a6b0171e01f8181c48f77a2db32b3bbd94.svg)
-
-**Join Our Contributor List!** </br>
+<br>
+<br>
+### **Join Our Contributor List!** <br>
 Make your first contribution and see your GitHub avatar appear here! Every contribution counts, no matter how small.
 
 
