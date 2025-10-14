@@ -29,6 +29,7 @@
 
 8. Ayaan Shaikh | [LinkedIn](https://www.linkedin.com/in/ayaan-shaikh-) | [GitHub](https://github.com/ayaantuts) 
     - Added DSA codes and improved the DSA README.md file
+    - Added bubble sort in JavaScript with comments and time-space complexity in `/dsa/array/sorting/bubble_sort.js`
 
 9. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
     - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
