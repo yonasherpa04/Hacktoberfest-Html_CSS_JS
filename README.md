@@ -64,11 +64,14 @@ git push origin feature/your-feature-name
 
 After submitting your contribution, add yourself to Contributor.md:
 Format:
-1. Your Name | [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username) | [Short Task Description]
-Example:
-1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) | Added Bento Grid example in HTML/CSS
+1. Your Name | [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username) 
+    - [Short Task Description]
 
-**Note :** If your name is already there, then just add the '|' and add your next work intro. Ensure no duplicate entry should be there.
+Example:
+1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) 
+    - Added Bento Grid example in HTML/CSS
+
+#### `**Note :** If your name is already there, then just move to next line add two tab  and add your next work intro. Ensure no duplicate entry should be there.`
 
 ## 📁 Folder Structure Details
 - HTML Directory: Contains the HTML files you want to share
