@@ -1,0 +1,54 @@
+<!-- 
+  weather-app.html
+
+  This HTML file implements a Weather Application using HTML, CSS, and JavaScript.
+  It allows users to:
+    - Search for any city to view its current weather details.
+    - Display temperature, humidity, wind speed, and weather description.
+    - Show a 5-day weather forecast in a card-based layout.
+    - Load a default city's weather (optional prompt on page load).
+
+  The application uses the free 'wttr.in' API (no API key required) to fetch 
+  weather data and updates the UI dynamically based on user input.
+
+  The UI features a modern glassmorphism design with responsive layout, 
+  gradient background, and weather emojis for better visualization.
+
+  All styling is included in 'weather.css'.
+  All functionality and API logic are included in 'weather.js'.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="../css/weather.css">
+</head>
+<body>
+  <div class="app">
+    <div class="weather-card">
+      <h1 class="title"> WeatherNow</h1>
+
+      <div class="search-box">
+        <input type="text" id="cityInput" placeholder="Enter city name...">
+        <button id="searchBtn">Search</button>
+      </div>
+
+      <div class="weather-info">
+        <h2 id="cityName">--</h2>
+        <p id="temperature">-- °C</p>
+        <p id="description">--</p>
+        <p id="humidity">--</p>
+        <p id="wind">--</p>
+      </div>
+
+      <h3 class="forecast-title">3-Day Forecast</h3>
+      <div id="forecast" class="forecast-container"></div>
+    </div>
+  </div>
+
+  <script src="../js/weather.js"></script>
+</body>
+</html>
