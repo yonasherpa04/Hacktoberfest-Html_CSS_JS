@@ -86,13 +86,18 @@ Example:
 
 
 ### 👥 Contributors
-Our Amazing Contributors ✨
+#### **Our Amazing Contributors ✨** <br>
+
 <a href="https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS" />
+  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=1"/>
 </a>
+<br>
+<br>
 
-
-Join Our Contributor List!
+![Alt](https://repobeats.axiom.co/api/embed/e7ba80a6b0171e01f8181c48f77a2db32b3bbd94.svg)
+<br>
+<br>
+### **Join Our Contributor List!** <br>
 Make your first contribution and see your GitHub avatar appear here! Every contribution counts, no matter how small.
 
 
@@ -105,35 +110,3 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 ### Happy coding and happy Hacktoberfest! 🎃
 
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
-
-# OOP in JavaScript using ES6 Classes
-
-This project demonstrates key Object-Oriented Programming (OOP) principles using ES6 classes:
-
-- **Encapsulation:** Private fields using `#` and getters/setters  
-- **Inheritance:** `Person → Employee → Manager`  
-- **Polymorphism:** Overridden `describe()` and `calculatePay()` methods  
-- **Abstraction:** Base abstract class `PersonLike`  
-- **Composition:** `Department` manages multiple Person objects  
-
-## DSA: Binary Search
-`binary_search.js` implements standard and generic binary search functions.
-
-## Contributor
-See `Contributor.md` for contributor details.
-
-# 📰 News Explorer
-
-A simple **News Application** built using **HTML, CSS, and JavaScript**, that allows users to search for the latest news by category, city, or keyword using the **GNews API**.
-
-##  Features
-- Search news by **keyword, city, or country**
-- Filter by category (Sports, Technology, etc.)
-- Display top 10 results in beautiful card UI
-- Responsive and clean interface
-
-## 🧰 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Fetch API)
-- [GNews API]

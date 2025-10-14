@@ -10,4 +10,5 @@
 7. | Name      | GitHub Username |                                              | Contribution |
 |------|------------------|------------------------------------------------------------|
 | Ankit Kumar | [aniKet0753](https://github.com/aniKet0753) | Built News Application (HTML, CSS, JS) |
-8. Ayaan Shaikh | [LinkedIn](https://www.linkedin.com/in/ayaan-shaikh-) | [GitHub](https://github.com/ayaantuts) | [ Added DSA codes and improved the DSA README.md file ]
+8.Kiran Satdive | [LinkedIn](https://www.linkedin.com/in/kiran-satdive/) | [GitHub](https://github.com/kiransatdive) | [Create Layout in HTML using CSS flex]
+9. Ayaan Shaikh | [LinkedIn](https://www.linkedin.com/in/ayaan-shaikh-) | [GitHub](https://github.com/ayaantuts) | [ Added DSA codes and improved the DSA README.md file ]
