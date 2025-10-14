@@ -4,7 +4,7 @@
 
 2. Divya Gandhi | [LinkedIn](https://www.linkedin.com/in/divya-gandhi-) | [GitHub](https://github.com/Digaa2710) 
     - Added a simple demo of asynchronous JavaScript concepts, showcasing data fetching using Promises and Async/Await.
-    - Added a Weather Application using HTML, CSS, JS with 3-day forecast and default city support
+    - Added a Weather Application using HTML, CSS, JS with 3-day forecast and default city support.
 
 3. Shruti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441) 
     - Added loops.js with examples of all JavaScript loop types 
