@@ -35,3 +35,4 @@
 
 9. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
     - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
+    - Implemented Bento Grid UI using HTML and CSS. Added screenshot in PR comment.
