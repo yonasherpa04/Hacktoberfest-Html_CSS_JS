@@ -45,3 +45,9 @@
 11. Rishabh Kaushik | [LinkedIn](www.linkedin.com/in/rishabh-kaushik-9876a238a) | [GitHub](https://github.com/Rishu222006)
     - Added `counting_sort.js` under `/dsa/array/sorting/` implementing counting sort with examples, comments, time-space
     complexity and stability.
+
+12. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
+    - Added the Random Quote Generator project.
+    - Displays a new motivational quote with author on each click.
+    - Includes dynamic background gradients, fade-in animation, copy-to-clipboard button & auto-rotation every 15 seconds.
+    - Fully responsive and interactive .
