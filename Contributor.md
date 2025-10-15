@@ -43,3 +43,12 @@
     - Included example usage, comments, and time-space complexity.
     - Time Complexity: O(n)
     - Space Complexity: O(n)
+  
+11. Snehal Mahasagar | [LinkedIn](https://www.linkedin.com/in/snehal-mahasagar/) | [GitHub](https://github.com/Snehalmahasagar/)
+    - Added the random password generator project.
+    - Which created the random password every time.
+    - Device responsive 👍.
+
+12. Rishabh Kaushik | [LinkedIn](www.linkedin.com/in/rishabh-kaushik-9876a238a) | [GitHub](https://github.com/Rishu222006)
+    - Added `counting_sort.js` under `/dsa/array/sorting/` implementing counting sort with examples, comments, time-space
+    complexity and stability.
