@@ -36,7 +36,12 @@
 9. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
     - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
     - Implemented Bento Grid UI using HTML and CSS. Added screenshot in PR comment.
+  
+10. Snehal Mahasagar | [LinkedIn](https://www.linkedin.com/in/snehal-mahasagar/) | [GitHub](https://github.com/Snehalmahasagar/)
+    - Added the random password generator project.
+    - Which created the random password every time.
+    - Device responsive 👍.
 
-10. Rishabh Kaushik | [LinkedIn](www.linkedin.com/in/rishabh-kaushik-9876a238a) | [GitHub](https://github.com/Rishu222006)
+11. Rishabh Kaushik | [LinkedIn](www.linkedin.com/in/rishabh-kaushik-9876a238a) | [GitHub](https://github.com/Rishu222006)
     - Added `counting_sort.js` under `/dsa/array/sorting/` implementing counting sort with examples, comments, time-space
     complexity and stability.
