@@ -54,8 +54,12 @@
     - Added `counting_sort.js` under `/dsa/array/sorting/` implementing counting sort with examples, comments, time-space
     complexity and stability.
 
-12. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
+13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
     - Displays a new motivational quote with author on each click.
     - Includes dynamic background gradients, fade-in animation, copy-to-clipboard button & auto-rotation every 15 seconds.
     - Fully responsive and interactive .
+   
+14. Shubhangi Gupta | [LinkedIn](https://www.linkedin.com/in/shubhangi-gupta-749520208/) | [GitHub](https://github.com/ShubhangiGupta07)
+    - Added Digital Clock project in JS folder
+
