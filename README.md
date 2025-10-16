@@ -53,7 +53,7 @@ git commit -m "Add your descriptive commit message here"
 ```bash
 git push origin feature/your-feature-name
 ```
-6. ****Create a Pull Request:**
+6. **Create a Pull Request:**
 
 - Go to the original repository on GitHub
 - Click "New Pull Request"
@@ -71,7 +71,7 @@ Example:
 1. Harshit Pachori | [LinkedIn](https://www.linkedin.com/in/harshitpachori) | [GitHub](https://github.com/HarshitPachori) 
     - Added Bento Grid example in HTML/CSS
 
-#### `**Note :** If your name is already there, then just move to next line add two tab  and add your next work intro. Ensure no duplicate entry should be there.`
+#### **Note :** If your name is already there, then just move to next line add two tab  and add your next work intro. Ensure no duplicate entry should be there.
 
 ## 📁 Folder Structure Details
 - HTML Directory: Contains the HTML files you want to share
