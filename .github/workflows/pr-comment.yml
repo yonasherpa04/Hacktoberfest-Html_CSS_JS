@@ -19,12 +19,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-        
-      # - name: Auto-assign reviewer (only on PR creation or reopen)
-      #   if: github.event.action == 'opened' || github.event.action == 'reopened'
-      #   uses: peter-evans/assign-reviewers@v2
-      #   with:
-      #     reviewers: HarshitPachori
 
       - name: Detect contributor.md change
         id: filecheck
@@ -40,11 +34,7 @@ jobs:
       - name: Run PR bot
         uses: actions/github-script@v7
         with:
-
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-          github-token: ${{secrets.PAT_TOKEN}}
-
+          github-token: ${{ secrets.GITHUB_TOKEN }}  # Add this line
           script: |
             const script = require('./.github/scripts/pr-bot.js');
             await script({
