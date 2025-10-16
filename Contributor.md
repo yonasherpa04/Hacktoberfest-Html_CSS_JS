@@ -73,4 +73,9 @@
       - Time Complexity: O(n)
       - Space Complexity: O(1)
 
-
+12. Sutthinart Khunvadhana | [LinkedIn](https://www.linkedin.com/in/iakgoog) | [GitHub](https://github.com/iakgoog) 
+    - Added `int_to_roman.js` under `/dsa/` implementing integer to Roman numeral conversion algorithm.
+        - Included two implementation approaches (greedy and verbose) with detailed comments.
+        - Added comprehensive examples, error handling, and test cases.
+        - Time Complexity: O(1)
+        - Space Complexity: O(1)
