@@ -45,14 +45,14 @@ This Code of Conduct applies within project spaces (e.g., GitHub repositories, d
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at **maintainers@demo.dev**. All complaints will be reviewed, investigated, and handled fairly and confidentially.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at **harshitpachori345@gmail.com**. All complaints will be reviewed, investigated, and handled fairly and confidentially.
 
 The project team is obligated to respect the privacy and security of the reporter of any incident. We will not disclose the identity of reporters unless they explicitly consent.
 
 ### Reporting Process
 
 1. **Document the incident**: Include screenshots, links, or other evidence when possible
-2. **Contact the maintainers**: Send details to maintainers@demo.dev
+2. **Contact the maintainers**: Send details to harshitpachori345@gmail.com
 3. **Response timeline**: We aim to respond within 48 hours
 4. **Investigation**: The team will review and investigate the report
 5. **Resolution**: Appropriate action will be taken based on the severity
@@ -109,7 +109,7 @@ The project team will use the following guidelines to determine appropriate cons
 
 If you need help or have questions about this Code of Conduct:
 
-- **Email**: maintainers@demo.dev
+- **Email**: harshitpachori345@gmail.com
 - **Community**: Join our discussions on GitHub
 
 ## Attribution
