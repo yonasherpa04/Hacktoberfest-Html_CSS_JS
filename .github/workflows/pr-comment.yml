@@ -1,0 +1,48 @@
+name: PR Comment Bot
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, edited]
+
+jobs:
+  pr-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+        
+      - name: Auto-assign reviewer (only on PR creation or reopen)
+        if: github.event.action == 'opened' || github.event.action == 'reopened'
+        uses: peter-evans/assign-reviewers@v2
+        with:
+          reviewers: HarshitPachori
+
+      - name: Detect contributor.md change
+        id: filecheck
+        run: |
+          git fetch origin ${{ github.base_ref }} --depth=1
+          if git diff --name-only origin/${{ github.base_ref }} | grep -q "contributor.md"; then
+            echo "fileChanged=true" >> $GITHUB_OUTPUT
+          else
+            echo "fileChanged=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run PR bot
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const script = require('./.github/scripts/pr-bot.js');
+            await script({
+              github,
+              context,
+              fileChanged: '${{ steps.filecheck.outputs.fileChanged }}'
+            });
