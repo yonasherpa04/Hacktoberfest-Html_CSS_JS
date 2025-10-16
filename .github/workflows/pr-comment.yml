@@ -24,7 +24,8 @@ jobs:
         id: filecheck
         run: |
           git fetch origin ${{ github.base_ref }} --depth=1
-          if git diff --name-only origin/${{ github.base_ref }} | grep -q "contributor.md"; then
+          # Check case-insensitively because file in repo is 'Contributor.md'
+          if git diff --name-only origin/${{ github.base_ref }} | grep -qi "contributor.md"; then
             echo "fileChanged=true" >> $GITHUB_OUTPUT
           else
             echo "fileChanged=false" >> $GITHUB_OUTPUT
