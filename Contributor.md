@@ -62,12 +62,8 @@
    
 14. Shubhangi Gupta | [LinkedIn](https://www.linkedin.com/in/shubhangi-gupta-749520208/) | [GitHub](https://github.com/ShubhangiGupta07)
     - Added Digital Clock project in JS folder
-    - Added Color Picker project files in HTML, CSS and JS folder
 
-11. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
+15. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
     - Added linear_search.js under /dsa/array/searching/ implementing the Linear Search algorithm in javascript.
-        - Included example usage, detailed comments, and time-space complexity.
-        - Time Complexity: O(n)
-        - Space Complexity: O(1)
 
 
