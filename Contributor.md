@@ -64,6 +64,7 @@
     - Added Digital Clock project under JS folder
     - Added Color Picker project files under HTML, CSS and JS folder
     - Added Text Encryptor/Decryptor project files under HTML, CSS and JS folder
+    - Added Quiz App project files under HTML, CSS and JS folder
 
 11. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
     - Added linear_search.js under /dsa/array/searching/ implementing the Linear Search algorithm in javascript.
