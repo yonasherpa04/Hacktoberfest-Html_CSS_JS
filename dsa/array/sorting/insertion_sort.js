@@ -1,4 +1,3 @@
-ain insertion sort function
 // It assumes the array is passed by reference and sorts it in-place
 function insertionSort(arr) {
   // Start from the second element (index 1), as the first element is trivially sorted
