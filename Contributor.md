@@ -13,6 +13,7 @@
     - Added strings.js with examples of basic string methods (toUpperCase, toLowerCase, trim, slice, replace, split)
     - Added program for quick sort
     - Added singleton design pattern in js
+    - Added insertion sort program in js
 
 4. Krishna Pramod Gaud | [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6) 
     - Added objectIteration.js demonstrating various ways to iterate over JavaScript objects with proper comments 
