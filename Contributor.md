@@ -62,4 +62,5 @@
    
 14. Shubhangi Gupta | [LinkedIn](https://www.linkedin.com/in/shubhangi-gupta-749520208/) | [GitHub](https://github.com/ShubhangiGupta07)
     - Added Digital Clock project in JS folder
+    - Added Color Picker project files in HTML, CSS and JS folder
 
