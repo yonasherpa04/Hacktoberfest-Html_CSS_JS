@@ -20,11 +20,11 @@ jobs:
         with:
           node-version: 20
         
-      - name: Auto-assign reviewer (only on PR creation or reopen)
-        if: github.event.action == 'opened' || github.event.action == 'reopened'
-        uses: peter-evans/assign-reviewers@v2
-        with:
-          reviewers: HarshitPachori
+      # - name: Auto-assign reviewer (only on PR creation or reopen)
+      #   if: github.event.action == 'opened' || github.event.action == 'reopened'
+      #   uses: peter-evans/assign-reviewers@v2
+      #   with:
+      #     reviewers: HarshitPachori
 
       - name: Detect contributor.md change
         id: filecheck
