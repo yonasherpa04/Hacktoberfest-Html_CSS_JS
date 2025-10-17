@@ -37,6 +37,7 @@
 9. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
     - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
     - Implemented Bento Grid UI using HTML and CSS. Added screenshot in PR comment.
+    - Added `topologicalSort.js` and `dfsTraversal.js` under `/dsa/graph/` with detailed comments, and example outputs.
 
 10. Sahil Sanap | [LinkedIn](https://www.linkedin.com/in/sahilsanap101) | [GitHub](https://github.com/sahilsanap101)
     - Added remove-duplicates-using-set.js under /dsa/array/ implementing removal of duplicate      
