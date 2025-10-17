@@ -66,6 +66,7 @@
     - Added Text Encryptor/Decryptor project files under HTML, CSS and JS folder
     - Added Quiz App project files under HTML, CSS and JS folder
     - Added BMI Calculator with Health Advice project files under HTML, CSS and JS folder
+    - Added Number Guessing Game project files under HTML, CSS and JS folder
 
 15. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
     - Added linear_search.js under /dsa/array/searching/ implementing the Linear Search algorithm in javascript.
@@ -73,7 +74,7 @@
       - Time Complexity: O(n)
       - Space Complexity: O(1)
 
-12. Sutthinart Khunvadhana | [LinkedIn](https://www.linkedin.com/in/iakgoog) | [GitHub](https://github.com/iakgoog) 
+16. Sutthinart Khunvadhana | [LinkedIn](https://www.linkedin.com/in/iakgoog) | [GitHub](https://github.com/iakgoog) 
     - Added `int_to_roman.js` under `/dsa/` implementing integer to Roman numeral conversion algorithm.
         - Included two implementation approaches (greedy and verbose) with detailed comments.
         - Added comprehensive examples, error handling, and test cases.
