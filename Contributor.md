@@ -87,3 +87,10 @@ Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
    -Implemented BFS Traversal
    -Included an example showing how to create a graph and use your function
    -Used an Adjacency List to represent the Graph and a Queue for traversal 
+
+18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
+    - Added Maximum Subarray Sum in JS under dsa/array
+        - Implemented Maximum Subarray Sum problem using Kadane's Algorithm
+        - Included examples for the algorithm
+        - Time Complexity = O(n)
+        - Space Complexity = O(1)
