@@ -7,18 +7,18 @@
 
 function maxSubArraySum(arr) {
   if(arr.length === 0){
-    return 0;
+    return 0; //If the array is empty
   }
   let maxSoFar = -Infinity;
   let sum = 0;
 
   for(let i = 0; i<arr.length; i++){
-    sum += arr[i];
+    sum += arr[i]; //Add element at the index to sum
     if(sum > maxSoFar){
-      maxSoFar = sum;
+      maxSoFar = sum; //Update maxSoFar if needed
     }
-    if(sum < 0){
-      sum = 0;
+    if(sum < 0){ //If sum < 0 it is better to start a new subarray from the next element
+      sum = 0; 
     }
   }
   return maxSoFar;
