@@ -94,3 +94,10 @@ Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
         - Included examples for the algorithm
         - Time Complexity = O(n)
         - Space Complexity = O(1)
+
+19. Durgeshwar Kumar Shaw | [GitHub](https://github.com/Durgeshwar-AI)
+    - Added Paranthesis Checker in JS under dsa/stack
+        - Implemented Paranthesis checking in a given expression string using the concept of stack
+        - Included examples for the algorithm
+        - Time Complexity = O(n)
+        - Space Complexity = O(n)
