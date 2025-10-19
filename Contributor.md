@@ -82,11 +82,11 @@
         - Time Complexity: O(1)
         - Space Complexity: O(1)
 
-Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
--Added bfsTraversal.js under dsa
-   -Implemented BFS Traversal
-   -Included an example showing how to create a graph and use your function
-   -Used an Adjacency List to represent the Graph and a Queue for traversal 
+17. Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
+    - Added bfsTraversal.js under dsa
+        - Implemented BFS Traversal
+        - Included an example showing how to create a graph and use your function
+        - Used an Adjacency List to represent the Graph and a Queue for traversal 
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array
@@ -108,3 +108,6 @@ Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
         - Included examples for the algorithm
         - Time Complexity = O(t * m)
         - Space Complexity = O(t)
+21. Ankur Kumar | [LinkedIn](https://www.linkedin.com/in/ankur-kumar-74061b234/) |
+[Github](https://github.com/ankurO7)
+    - Added Left Rotate by K places program in javascript in O(n) Time complexity and O(1) Space complexity.
