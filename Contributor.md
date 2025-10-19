@@ -82,8 +82,12 @@
         - Time Complexity: O(1)
         - Space Complexity: O(1)
 
-Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
+17. Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
 -Added bfsTraversal.js under dsa
    -Implemented BFS Traversal
    -Included an example showing how to create a graph and use your function
    -Used an Adjacency List to represent the Graph and a Queue for traversal 
+
+18. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
+    - Created new subdirectory named dsa_in_cpp
+    - Added solution for problem "String to Integer (atoi) with proper example & source code
