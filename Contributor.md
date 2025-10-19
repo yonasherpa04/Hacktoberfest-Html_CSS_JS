@@ -101,3 +101,10 @@ Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
         - Included examples for the algorithm
         - Time Complexity = O(n)
         - Space Complexity = O(n)
+
+20. Anish Bhuin | [GitHub](https://github.com/Anibhu)
+    - Added Incremental subarray in JS under dsa/array
+        - Solves the problem of finding the minimum number of operations needed to cover a range [1, n] with given segments
+        - Included examples for the algorithm
+        - Time Complexity = O(t * m)
+        - Space Complexity = O(t)
