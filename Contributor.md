@@ -83,11 +83,37 @@
         - Space Complexity: O(1)
 
 17. Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
--Added bfsTraversal.js under dsa
+  -Added bfsTraversal.js under dsa
    -Implemented BFS Traversal
    -Included an example showing how to create a graph and use your function
    -Used an Adjacency List to represent the Graph and a Queue for traversal 
 
-18. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
+18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
+    - Added Maximum Subarray Sum in JS under dsa/array
+        - Implemented Maximum Subarray Sum problem using Kadane's Algorithm
+        - Included examples for the algorithm
+        - Time Complexity = O(n)
+        - Space Complexity = O(1)
+
+19. Durgeshwar Kumar Shaw | [GitHub](https://github.com/Durgeshwar-AI)
+    - Added Paranthesis Checker in JS under dsa/stack
+        - Implemented Paranthesis checking in a given expression string using the concept of stack
+        - Included examples for the algorithm
+        - Time Complexity = O(n)
+        - Space Complexity = O(n)
+
+20. Anish Bhuin | [GitHub](https://github.com/Anibhu)
+    - Added Incremental subarray in JS under dsa/array
+        - Solves the problem of finding the minimum number of operations needed to cover a range [1, n] with given segments
+        - Included examples for the algorithm
+        - Time Complexity = O(t * m)
+        - Space Complexity = O(t)
+21. Ankur Kumar | [LinkedIn](https://www.linkedin.com/in/ankur-kumar-74061b234/) |
+[Github](https://github.com/ankurO7)
+    - Added Left Rotate by K places program in javascript in O(n) Time complexity and O(1) Space complexity.
+
+22. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
+    - Time Complexity = O(n)
+    - Space Complexity = O(1)
