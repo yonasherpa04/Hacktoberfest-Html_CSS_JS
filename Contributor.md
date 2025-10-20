@@ -117,6 +117,7 @@
     - Added solution for problem "String to Integer (atoi) with proper example & source code
     - Time Complexity = O(n)
     - Space Complexity = O(1)
+    - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
 
 23. Harshit Pachori | [GitHub](https://github.com/HarshitPachori)
     - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
@@ -124,4 +125,3 @@
         - Included comprehensive examples, detailed comments, and performance comparison
         - Time Complexity: O(n) for frequency counting method, O(n log n) for sorting method
         - Space Complexity: O(1) for frequency counting, O(n) for sorting method
-        - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
