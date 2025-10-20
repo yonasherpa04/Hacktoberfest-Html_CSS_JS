@@ -111,3 +111,9 @@
 21. Ankur Kumar | [LinkedIn](https://www.linkedin.com/in/ankur-kumar-74061b234/) |
 [Github](https://github.com/ankurO7)
     - Added Left Rotate by K places program in javascript in O(n) Time complexity and O(1) Space complexity.
+22. Chandrasekhar Parchuri | [LinkedIn](https://www.linkedin.com/in/chandrasekhar-parchuri-2515a3311/) | [GitHub](https://github.com/chandra-011220)
+    - Added Heap Sort in JS under dsa/
+        - Implemented the Heap Sort algorithm using both Max Heap (ascending) and Min Heap (descending).
+        - Included examples for both sorting implementations.
+        - Time Complexity = O(n log n)
+        - Space Complexity = O(1)
