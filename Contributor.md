@@ -124,3 +124,4 @@
         - Included comprehensive examples, detailed comments, and performance comparison
         - Time Complexity: O(n) for frequency counting method, O(n log n) for sorting method
         - Space Complexity: O(1) for frequency counting, O(n) for sorting method
+        - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
