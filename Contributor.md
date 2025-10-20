@@ -117,3 +117,10 @@
     - Added solution for problem "String to Integer (atoi) with proper example & source code
     - Time Complexity = O(n)
     - Space Complexity = O(1)
+
+23. Harshit Pachori | [GitHub](https://github.com/HarshitPachori)
+    - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
+        - Implemented three different approaches: frequency counting, sorting, and Map-based
+        - Included comprehensive examples, detailed comments, and performance comparison
+        - Time Complexity: O(n) for frequency counting method, O(n log n) for sorting method
+        - Space Complexity: O(1) for frequency counting, O(n) for sorting method
