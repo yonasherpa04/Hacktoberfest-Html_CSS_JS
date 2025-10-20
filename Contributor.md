@@ -83,10 +83,10 @@
         - Space Complexity: O(1)
 
 17. Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
-    - Added bfsTraversal.js under dsa
-        - Implemented BFS Traversal
-        - Included an example showing how to create a graph and use your function
-        - Used an Adjacency List to represent the Graph and a Queue for traversal 
+  -Added bfsTraversal.js under dsa
+   -Implemented BFS Traversal
+   -Included an example showing how to create a graph and use your function
+   -Used an Adjacency List to represent the Graph and a Queue for traversal 
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array
@@ -117,3 +117,9 @@
         - Included examples for both sorting implementations.
         - Time Complexity = O(n log n)
         - Space Complexity = O(1)
+
+23. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
+    - Created new subdirectory named dsa_in_cpp
+    - Added solution for problem "String to Integer (atoi) with proper example & source code
+    - Time Complexity = O(n)
+    - Space Complexity = O(1)
