@@ -4,18 +4,18 @@ Welcome to our Hacktoberfest repository! This project is open to all developers 
 
 ## Repository Description
 
-This respository includes HTML, CSS, and JavaScript files. The folder structure is simple and clean, making it easy for contributors to understand and add their own features or improvements.
+This repository includes HTML, CSS, and JavaScript files. The folder structure is simple and clean, making it easy for contributors to understand and add their own features or improvements.
 
 ## Project Structure
 ```bash
 ├── html/ # html files directory
 │ └── index.html # Main html file
 ├── css/ # CSS stylesheets directory
-│ └── style.css # Main styleshee
+│ └── style.css # Main stylesheet
 ├── js/ # JavaScript files directory
 │ └── script.js # Main JavaScript file
 ├── dsa/ # DSA directory
-│ └── binary_search.js # Main stylesheet
+│ └── binary_search.js # Main DSA file
 └── README.md # Project documentation (this file)
 ```
 
