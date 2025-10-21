@@ -82,7 +82,7 @@
         - Time Complexity: O(1)
         - Space Complexity: O(1)
 
-17. Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
+17. Yangchen Sherpa | [Github](https://github.com/yonasherpa04)
     - Added bfsTraversal.js under dsa
       - Implemented BFS Traversal
       - Included an example showing how to create a graph and use your function
@@ -115,10 +115,7 @@
 22. Chandrasekhar Parchuri | [LinkedIn](https://www.linkedin.com/in/chandrasekhar-parchuri-2515a3311/) | [GitHub](https://github.com/chandra-011220)
     - Added Heap Sort in JS under dsa/
         - Implemented the Heap Sort algorithm using both Max Heap (ascending) and Min Heap (descending).
-        - Included examples for both sorting implementations.
-        - Time Complexity = O(n log n)
-        - Space Complexity = O(1)
-
+          
 23. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
@@ -128,4 +125,7 @@
     - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
 
 24. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
-    - Added pre-order and post-traversal method in `dsa/tree`
+    - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
+      
+25. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+    - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
