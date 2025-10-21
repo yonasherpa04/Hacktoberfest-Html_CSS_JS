@@ -130,6 +130,6 @@
 25. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
     - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
 
-26. Chaitanya Gidwani | [LinkedIn](https://www.linkedin.com/in/chaitanya-gidwani/) \ [Github](https://github.com/ChaitanyaGidwani)
+26. Chaitanya Gidwani | [LinkedIn](https://www.linkedin.com/in/chaitanya-gidwani/) \ [GitHub](https://github.com/ChaitanyaGidwani)
     - Implemented Stack in JavaScript
       
