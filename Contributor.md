@@ -90,6 +90,21 @@
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array
+        - Implemented Maximum Subarray Sum problem using Kadane's Algorithm
+        - Included examples for the algorithm
+        - Time Complexity = O(n)
+        - Space Complexity = O(1)
+
+19. Durgeshwar Kumar Shaw | [GitHub](https://github.com/Durgeshwar-AI)
+    - Added Paranthesis Checker in JS under dsa/stack
+        - Implemented Paranthesis checking in a given expression string using the concept of stack
+        - Included examples for the algorithm
+        - Time Complexity = O(n)
+        - Space Complexity = O(n)
+
+20. Anish Bhuin | [GitHub](https://github.com/Anibhu)
+    - Added Incremental subarray in JS under dsa/array
+        - Solves the problem of finding the minimum number of operations needed to cover a range [1, n] with given segments
         - Included examples for the algorithm
         - Time Complexity = O(t * m)
         - Space Complexity = O(t)
