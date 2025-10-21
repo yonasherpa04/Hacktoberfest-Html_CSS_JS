@@ -123,3 +123,6 @@
     - Added solution for problem "String to Integer (atoi) with proper example & source code
     - Time Complexity = O(n)
     - Space Complexity = O(1)
+
+23. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
+    - Added pre-order and post-traversal method in `dsa/tree`
