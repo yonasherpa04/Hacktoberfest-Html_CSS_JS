@@ -16,7 +16,7 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 │ └── script.js # Main JavaScript file
 ├── dsa/ # DSA directory
 │ └── binary_search.js # Main stylesheet
-└── README.md # Project documentation (this file)
+└── README.md # Project documentation
 ```
 
 ## 🚀 How to Contribute
