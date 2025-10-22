@@ -16,7 +16,8 @@ dsa/
 │   └── palindromeCheck.js
 │
 ├── linkedlist/
-│   └── reverseLinkedList.js
+│   ├── reverseLinkedList.js
+│   └── mergePoint.js
 │
 ├── tree/
 │   └── inorderTraversal.js
