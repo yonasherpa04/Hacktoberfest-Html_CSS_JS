@@ -121,8 +121,9 @@
     - Added solution for problem "String to Integer (atoi) with proper example & source code
       - Time Complexity = O(n)
       - Space Complexity = O(1)
-    - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
-    - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
+    - next_permutation.cpp file added, in the dsa_in_cpp directory reffering to the Problem-31
+      - Time Complexity = O(n)
+      - Space Complexity = O(1)
 
 24. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
