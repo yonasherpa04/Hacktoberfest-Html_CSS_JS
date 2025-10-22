@@ -1,46 +1,47 @@
-1. B Srinivas Reddy | [Linkedin Profile](https://www.linkedin.com/in/bsrinivasreddy) | [Github Profile](https://github.com/srinivasr)
-   - Update and enhance the README file and contributors.md file
-   - Update readme file of different things
+1. B Srinivas Reddy | [Linkedin Profile](https://www.linkedin.com/in/bsrinivasreddy) | [Github Profile](https://github.com/srinivasr) 
+    - Update and enhance the README file and contributors.md file 
+    - Update readme file of different things
 
-3. Divya Gandhi | [LinkedIn](https://www.linkedin.com/in/divya-gandhi-) | [GitHub](https://github.com/Digaa2710)
-   - Added a simple demo of asynchronous JavaScript concepts, showcasing data fetching using Promises and Async/Await.
-   - Added a Weather Application using HTML, CSS, JS with 3-day forecast and default city support.
-   - Added selection sort in JavaScript with comments and time-space complexity in `/dsa/array/sorting/selection_sort.js`
+2. Divya Gandhi | [LinkedIn](https://www.linkedin.com/in/divya-gandhi-) | [GitHub](https://github.com/Digaa2710) 
+    - Added a simple demo of asynchronous JavaScript concepts, showcasing data fetching using Promises and Async/Await.
+    - Added a Weather Application using HTML, CSS, JS with 3-day forecast and default city support.
+    - Added selection sort in JavaScript with comments and time-space complexity in `/dsa/array/sorting/selection_sort.js` 
 
-4. Shruti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441)
-   - Added loops.js with examples of all JavaScript loop types
-   - Added functions.js with examples of normal and arrow function implementations
-   - Added strings.js with examples of basic string methods (toUpperCase, toLowerCase, trim, slice, replace, split)
-   - Added program for quick sort
-   - Added singleton design pattern in js
-   - Added insertion sort program in js
+3. Shruti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441) 
+    - Added loops.js with examples of all JavaScript loop types 
+    - Added functions.js with examples of normal and arrow function implementations
+    - Added strings.js with examples of basic string methods (toUpperCase, toLowerCase, trim, slice, replace, split)
+    - Added program for quick sort
+    - Added singleton design pattern in js
+    - Added insertion sort program in js
 
-5. Krishna Pramod Gaud | [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6)
-   - Added objectIteration.js demonstrating various ways to iterate over JavaScript objects with proper comments
-   - Added CSS Grid Component with HTML and CSS layout
-   - Added memoization.js demonstrating generic memoization function for factorial and sum examples
+4. Krishna Pramod Gaud | [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6) 
+    - Added objectIteration.js demonstrating various ways to iterate over JavaScript objects with proper comments 
+    - Added CSS Grid Component with HTML and CSS layout 
+    - Added memoization.js demonstrating generic memoization function for factorial and sum examples
 
-6. Abbas Abro | [LinkedIn](https://www.linkedin.com/in/abro-abbas/) | [GitHub](https://github.com/abbasabro)
-   - Added a well structured README.md file
+5. Abbas Abro | [LinkedIn](https://www.linkedin.com/in/abro-abbas/) | [GitHub](https://github.com/abbasabro) 
+    - Added a well structured README.md file
 
-7. Aniket Kumar | [Github](https://github.com/aniKet0753)
-   - Implemented ES6 OOP demo (encapsulation, inheritance, polymorphism, abstraction, composition), UI glue, and DSA `binary_search.js`. Added comments and documentation
-   - Built News Application (HTML, CSS, JS)
+6. Aniket Kumar | [Github](https://github.com/aniKet0753) 
+    - Implemented ES6 OOP demo (encapsulation, inheritance, polymorphism, abstraction, composition), UI glue, and DSA `binary_search.js`. Added comments and documentation 
+    - Built News Application (HTML, CSS, JS)
 
-8. Kiran Satdive | [LinkedIn](https://www.linkedin.com/in/kiran-satdive/) | [GitHub](https://github.com/kiransatdive)
-   - Create Layout in HTML using CSS flex
+7. Kiran Satdive | [LinkedIn](https://www.linkedin.com/in/kiran-satdive/) | [GitHub](https://github.com/kiransatdive) 
+    - Create Layout in HTML using CSS flex
 
-9. Ayaan Shaikh | [LinkedIn](https://www.linkedin.com/in/ayaan-shaikh-) | [GitHub](https://github.com/ayaantuts)
-   - Added DSA codes and improved the DSA README.md file
-   - Added bubble sort in JavaScript with comments and time-space complexity in `/dsa/array/sorting/bubble_sort.js`
+8. Ayaan Shaikh | [LinkedIn](https://www.linkedin.com/in/ayaan-shaikh-) | [GitHub](https://github.com/ayaantuts) 
+    - Added DSA codes and improved the DSA README.md file
+    - Added bubble sort in JavaScript with comments and time-space complexity in `/dsa/array/sorting/bubble_sort.js`
+    - Added an algorithm to find out whether 2 or more Linked Lists have a merge point
 
-10. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
-   - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
-   - Implemented Bento Grid UI using HTML and CSS. Added screenshot in PR comment.
-   - Added `topologicalSort.js` and `dfsTraversal.js` under `/dsa/graph/` with detailed comments, and example outputs.
+9. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
+    - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
+    - Implemented Bento Grid UI using HTML and CSS. Added screenshot in PR comment.
+    - Added `topologicalSort.js` and `dfsTraversal.js` under `/dsa/graph/` with detailed comments, and example outputs.
 
-11. Sahil Sanap | [LinkedIn](https://www.linkedin.com/in/sahilsanap101) | [GitHub](https://github.com/sahilsanap101)
-    - Added remove-duplicates-using-set.js under /dsa/array/ implementing removal of duplicate  
+10. Sahil Sanap | [LinkedIn](https://www.linkedin.com/in/sahilsanap101) | [GitHub](https://github.com/sahilsanap101)
+    - Added remove-duplicates-using-set.js under /dsa/array/ implementing removal of duplicate      
       elements using JavaScript Set.
       - Included example usage, comments, and time-space complexity.
       - Time Complexity: O(n)
@@ -120,19 +121,39 @@
 24. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
-      - Time Complexity = O(n)
+      - Time Complexity = O(N)
       - Space Complexity = O(1)
+    - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
+      - Time Complexity = O(N)
+      - Space Complexity = O(1)
+    - Added solution for problem "3Sum" in dsa_in_cpp directory
+      - Time Complexity = O(n^2)
+      - Space Complexity = O(1)  
+  
+
+    
+25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
     - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
 
-25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
+26. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
       
-26. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+27. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
     - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
+
 
 27. Ananyaa | [LinkedIn](https://www.linkedin.com/in/ananyaa1805/) | [GitHub](https://github.com/ananyaa0518)
     - Added a comprehensive implementation of all fundamental singly linked list operations in dsa in cpp.
 
-28. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
+
+=======
+28. Vedant Patole | [LinkedIn](https://www.linkedin.com/in/vedant-patole-92a026301/) | [GitHub](https://github.com/PatoleVedant)
+    - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
+28. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+   - Added licence file and update readme.md.
+
+30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
 -Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder 
+    
+
