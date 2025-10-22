@@ -134,3 +134,6 @@
 
 27. Vedant Patole | [LinkedIn](https://www.linkedin.com/in/vedant-patole-92a026301/) | [GitHub](https://github.com/PatoleVedant)
     - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
+28. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+   - Added licence file and update readme.md.
+    
