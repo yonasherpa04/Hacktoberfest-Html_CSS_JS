@@ -121,19 +121,29 @@
 24. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
-      - Time Complexity = O(n)
+      - Time Complexity = O(N)
       - Space Complexity = O(1)
+    - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
+      - Time Complexity = O(N)
+      - Space Complexity = O(1)
+    - Added solution for problem "3Sum" in dsa_in_cpp directory
+      - Time Complexity = O(n^2)
+      - Space Complexity = O(1)  
+  
+
+    
+25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
     - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
 
-25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
+26. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
       
-26. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+27. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
     - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
 
-27. Chaitanya Gidwani | [LinkedIn](https://www.linkedin.com/in/chaitanya-gidwani/) | [GitHub](https://github.com/ChaitanyaGidwani)
-    - Implemented Stack in JavaScript
-      
-28. Ananyaa | [LinkedIn](https://www.linkedin.com/in/ananyaa1805/) | [GitHub](https://github.com/ananyaa0518)
-    - Added a comprehensive implementation of all fundamental singly linked list operations in dsa in cpp.
+28. Vedant Patole | [LinkedIn](https://www.linkedin.com/in/vedant-patole-92a026301/) | [GitHub](https://github.com/PatoleVedant)
+    - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
+28. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+   - Added licence file and update readme.md.
+    
