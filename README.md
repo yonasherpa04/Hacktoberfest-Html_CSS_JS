@@ -16,6 +16,8 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 │ └── script.js # Main JavaScript file
 ├── dsa/ # DSA directory
 │ └── binary_search.js # Main stylesheet
+├── dsa_in_cpp #DSA directory for code in C++
+│ └── program_files.cpp #Respective program files
 └── README.md # Project documentation (this file)
 ```
 

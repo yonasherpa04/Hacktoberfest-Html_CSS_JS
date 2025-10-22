@@ -126,6 +126,11 @@
     - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
       - Time Complexity = O(N)
       - Space Complexity = O(1)
+    - Added solution for problem "3Sum" in dsa_in_cpp directory
+      - Time Complexity = O(n^2)
+      - Space Complexity = O(1)  
+  
+
     
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
