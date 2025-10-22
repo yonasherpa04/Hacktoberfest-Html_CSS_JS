@@ -119,11 +119,12 @@
 23. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
-      - Time Complexity = O(n)
+      - Time Complexity = O(N)
       - Space Complexity = O(1)
-    - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
-    - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
-
+    - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
+      - Time Complexity = O(N)
+      - Space Complexity = O(1)
+    
 24. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
       
