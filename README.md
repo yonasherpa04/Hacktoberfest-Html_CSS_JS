@@ -110,17 +110,12 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 - Create a new issue if you encounter bugs
 - Ask questions in the discussions section
 - Reach out to maintainers for guidance
-## 📜 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for more details.
-
 
 ### Happy coding and happy Hacktoberfest! 🎃
 
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this project for personal or commercial purposes, as long as proper credit is given to the original authors.
