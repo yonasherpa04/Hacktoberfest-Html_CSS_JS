@@ -171,5 +171,6 @@
 31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
    - Added Spiral Traversal of a 2D matrix.
     
-    
-
+32. Purvasha Singh | [LinkedIn](https://www.linkedin.com/in/purvasha-singh-941079333/) | [GitHub](https://github.com/purrvax)
+   - Added three sum leetcode solution in three way 
+   - Added a new game - Fruit Catcher
