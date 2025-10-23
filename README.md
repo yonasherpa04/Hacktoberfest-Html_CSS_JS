@@ -28,6 +28,7 @@ This repository includes HTML, CSS, and JavaScript files. The folder structure i
 
 1. **Fork this repository** by clicking the "Fork" button at the top right of this page
 2. This will create a copy of this repository in your GitHub account
+3. Please star the repository if you find it good.
 
 ### Making Contributions
 
@@ -119,3 +120,7 @@ See the [LICENSE](./LICENSE) file for more details.
 
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project for personal or commercial purposes, as long as proper credit is given to the original authors.

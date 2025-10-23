@@ -56,6 +56,8 @@
     - Added `counting_sort.js` under `/dsa/array/sorting/` implementing counting sort with examples, comments, time-space
       complexity and stability.
     - Added solution to Reverse Integer problem in C++.
+    - Added solution to Two Sum problem in C++.
+    - Added solution to palindrome checking problem for integer in C++.
 
 14. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
@@ -123,13 +125,24 @@
     - Added solution for problem "String to Integer (atoi) with proper example & source code
       - Time Complexity = O(N)
       - Space Complexity = O(1)
+    - next_permutation.cpp file added, in the dsa_in_cpp directory reffering to the Problem-31
+      - Time Complexity = O(n)
+      - Space Complexity = O(1)
     - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
       - Time Complexity = O(N)
       - Space Complexity = O(1)
     - Added solution for problem "3Sum" in dsa_in_cpp directory
       - Time Complexity = O(n^2)
-      - Space Complexity = O(1)  
-  
+      - Space Complexity = O(1) 
+    - Implementing Web App (PWA) for Basic Calculator with following file directories:
+      - `html/calculator.html`
+      - `css/calculator.css`
+      - `js/calculator.js`
+    
+    ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
+
+    - Updated README fiel for LICENSE section for clear representation to visitors
+      - `Added in the bottom most part of README`
 
     
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
@@ -142,8 +155,21 @@
 27. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
     - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
 
+
+27. Ananyaa | [LinkedIn](https://www.linkedin.com/in/ananyaa1805/) | [GitHub](https://github.com/ananyaa0518)
+    - Added a comprehensive implementation of all fundamental singly linked list operations in dsa in cpp.
+
 28. Vedant Patole | [LinkedIn](https://www.linkedin.com/in/vedant-patole-92a026301/) | [GitHub](https://github.com/PatoleVedant)
-    - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
-28. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+   - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
+   
+29. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
    - Added licence file and update readme.md.
+
+30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
+   - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder 
+   
+31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
+   - Added Spiral Traversal of a 2D matrix.
     
+    
+

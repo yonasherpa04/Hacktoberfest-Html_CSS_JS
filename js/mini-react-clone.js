@@ -60,8 +60,7 @@ function App() {
   return createElement(
     "div",
     {},
-    Counter(),
-    TodoList(),
+    
     ThemeSwitcher()
   );
 }
