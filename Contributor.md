@@ -123,6 +123,9 @@
     - Added solution for problem "String to Integer (atoi) with proper example & source code
       - Time Complexity = O(N)
       - Space Complexity = O(1)
+    - next_permutation.cpp file added, in the dsa_in_cpp directory reffering to the Problem-31
+      - Time Complexity = O(n)
+      - Space Complexity = O(1)
     - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
       - Time Complexity = O(N)
       - Space Complexity = O(1)
