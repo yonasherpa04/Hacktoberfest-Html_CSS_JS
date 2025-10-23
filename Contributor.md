@@ -57,6 +57,7 @@
       complexity and stability.
     - Added solution to Reverse Integer problem in C++.
     - Added solution to Two Sum problem in C++.
+    - Added solution to palindrome checking problem for integer in C++.
 
 14. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
