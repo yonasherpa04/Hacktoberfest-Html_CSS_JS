@@ -133,8 +133,16 @@
       - Space Complexity = O(1)
     - Added solution for problem "3Sum" in dsa_in_cpp directory
       - Time Complexity = O(n^2)
-      - Space Complexity = O(1)  
-  
+      - Space Complexity = O(1) 
+    - Implementing Web App (PWA) for Basic Calculator with following file directories:
+      - `html/calculator.html`
+      - `css/calculator.css`
+      - `js/calculator.js`
+    
+    ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
+
+    - Updated README fiel for LICENSE section for clear representation to visitors
+      - `Added in the bottom most part of README`
 
     
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
