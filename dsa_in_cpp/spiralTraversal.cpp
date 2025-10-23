@@ -1,4 +1,5 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
 
 using namespace std; 
 
@@ -54,11 +55,6 @@ int main(){
     };
 
     SpiralTraverse(matrix);
-
-    vector<vector<pair<int,int>>>abcd;
-
-
-
-
+ 
     return 0 ;
 }
