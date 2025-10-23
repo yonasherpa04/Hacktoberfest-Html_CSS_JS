@@ -33,43 +33,142 @@
 8. Ayaan Shaikh | [LinkedIn](https://www.linkedin.com/in/ayaan-shaikh-) | [GitHub](https://github.com/ayaantuts) 
     - Added DSA codes and improved the DSA README.md file
     - Added bubble sort in JavaScript with comments and time-space complexity in `/dsa/array/sorting/bubble_sort.js`
+    - Added an algorithm to find out whether 2 or more Linked Lists have a merge point
 
 9. Ankit Dand | [LinkedIn](https://www.linkedin.com/in/ankit-dand) | [GitHub](https://github.com/AnkitDand)
     - Added `merge_sort.js` under `/dsa/array/sorting/` implementing merge sort with examples, comments, and time-space complexity.
     - Implemented Bento Grid UI using HTML and CSS. Added screenshot in PR comment.
+    - Added `topologicalSort.js` and `dfsTraversal.js` under `/dsa/graph/` with detailed comments, and example outputs.
 
 10. Sahil Sanap | [LinkedIn](https://www.linkedin.com/in/sahilsanap101) | [GitHub](https://github.com/sahilsanap101)
     - Added remove-duplicates-using-set.js under /dsa/array/ implementing removal of duplicate      
       elements using JavaScript Set.
-        - Included example usage, comments, and time-space complexity.
-        - Time Complexity: O(n)
-        - Space Complexity: O(n)
-  
-11. Snehal Mahasagar | [LinkedIn](https://www.linkedin.com/in/snehal-mahasagar/) | [GitHub](https://github.com/Snehalmahasagar/)
+      - Included example usage, comments, and time-space complexity.
+      - Time Complexity: O(n)
+      - Space Complexity: O(n)
+
+12. Snehal Mahasagar | [LinkedIn](https://www.linkedin.com/in/snehal-mahasagar/) | [GitHub](https://github.com/Snehalmahasagar/)
     - Added the random password generator project.
-        - Which created the random password every time.
-        - Device responsive 👍.
+      - Which created the random password every time.
+      - Device responsive 👍.
 
-12. Rishabh Kaushik | [LinkedIn](www.linkedin.com/in/rishabh-kaushik-9876a238a) | [GitHub](https://github.com/Rishu222006)
+13. Rishabh Kaushik | [LinkedIn](www.linkedin.com/in/rishabh-kaushik-9876a238a) | [GitHub](https://github.com/Rishu222006)
     - Added `counting_sort.js` under `/dsa/array/sorting/` implementing counting sort with examples, comments, time-space
-    complexity and stability.
+      complexity and stability.
+    - Added solution to Reverse Integer problem in C++.
+    - Added solution to Two Sum problem in C++.
 
-13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
+14. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
-        - Displays a new motivational quote with author on each click.
-        - Includes dynamic background gradients, fade-in animation, copy-to-clipboard button & auto-rotation every 15 seconds.
-        - Fully responsive and interactive .
-   
-14. Shubhangi Gupta | [LinkedIn](https://www.linkedin.com/in/shubhangi-gupta-749520208/) | [GitHub](https://github.com/ShubhangiGupta07)
+      - Displays a new motivational quote with author on each click.
+      - Includes dynamic background gradients, fade-in animation, copy-to-clipboard button & auto-rotation every 15 seconds.
+      - Fully responsive and interactive .
+
+15. Shubhangi Gupta | [LinkedIn](https://www.linkedin.com/in/shubhangi-gupta-749520208/) | [GitHub](https://github.com/ShubhangiGupta07)
     - Added Digital Clock project in JS folder
     - Added Color Picker project files under HTML, CSS and JS folder
     - Added Text Encryptor/Decryptor project files under HTML, CSS and JS folder
     - Added Quiz App project files under HTML, CSS and JS folder
-
-15. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
+    - Added BMI Calculator with Health Advice project files under HTML, CSS and JS folder
+    - Added Number Guessing Game project files under HTML, CSS and JS folder
+      
+16. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
     - Added linear_search.js under /dsa/array/searching/ implementing the Linear Search algorithm in javascript.
       - Included example usage, detailed comments, and time-space complexity.
       - Time Complexity: O(n)
       - Space Complexity: O(1)
 
+17. Sutthinart Khunvadhana | [LinkedIn](https://www.linkedin.com/in/iakgoog) | [GitHub](https://github.com/iakgoog)
+    - Added `int_to_roman.js` under `/dsa/` implementing integer to Roman numeral conversion algorithm.
+      - Included two implementation approaches (greedy and verbose) with detailed comments.
+      - Added comprehensive examples, error handling, and test cases.
+      - Time Complexity: O(1)
+      - Space Complexity: O(1)
+
+18. Yangchen Sherpa | [Github](https://github.com/yonasherpa04)
+    - Added bfsTraversal.js under dsa
+      - Implemented BFS Traversal
+      - Included an example showing how to create a graph and use your function
+      - Used an Adjacency List to represent the Graph and a Queue for traversal
+
+19. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
+    - Added Maximum Subarray Sum in JS under dsa/array
+      - Implemented Maximum Subarray Sum problem using Kadane's Algorithm
+      - Included examples for the algorithm
+      - Time Complexity = O(n)
+      - Space Complexity = O(1)
+
+20. Durgeshwar Kumar Shaw | [GitHub](https://github.com/Durgeshwar-AI)
+    - Added Paranthesis Checker in JS under dsa/stack
+      - Implemented Paranthesis checking in a given expression string using the concept of stack
+      - Included examples for the algorithm
+      - Time Complexity = O(n)
+      - Space Complexity = O(n)
+
+21. Anish Bhuin | [GitHub](https://github.com/Anibhu)
+    - Added Incremental subarray in JS under dsa/array
+      - Solves the problem of finding the minimum number of operations needed to cover a range [1, n] with given segments
+      - Included examples for the algorithm
+      - Time Complexity = O(t \* m)
+      - Space Complexity = O(t)
+
+22. Ankur Kumar | [LinkedIn](https://www.linkedin.com/in/ankur-kumar-74061b234/) | [Github](https://github.com/ankurO7)
+    - Added Left Rotate by K places program in javascript in O(n) Time complexity and O(1) Space complexity.
+
+23. Chandrasekhar Parchuri | [LinkedIn](https://www.linkedin.com/in/chandrasekhar-parchuri-2515a3311/) | [GitHub](https://github.com/chandra-011220)
+    - Added Heap Sort in JS under dsa/
+      - Implemented the Heap Sort algorithm using both Max Heap (ascending) and Min Heap (descending).
+        
+24. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
+    - Created new subdirectory named dsa_in_cpp
+    - Added solution for problem "String to Integer (atoi) with proper example & source code
+      - Time Complexity = O(N)
+      - Space Complexity = O(1)
+    - next_permutation.cpp file added, in the dsa_in_cpp directory reffering to the Problem-31
+      - Time Complexity = O(n)
+      - Space Complexity = O(1)
+    - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation 
+      - Time Complexity = O(N)
+      - Space Complexity = O(1)
+    - Added solution for problem "3Sum" in dsa_in_cpp directory
+      - Time Complexity = O(n^2)
+      - Space Complexity = O(1) 
+    - Implementing Web App (PWA) for Basic Calculator with following file directories:
+      - `html/calculator.html`
+      - `css/calculator.css`
+      - `js/calculator.js`
+    
+    ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
+
+    - Updated README fiel for LICENSE section for clear representation to visitors
+      - `Added in the bottom most part of README`
+
+    
+25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
+    - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
+    - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
+
+26. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
+    - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
+      
+27. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+    - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
+
+
+27. Ananyaa | [LinkedIn](https://www.linkedin.com/in/ananyaa1805/) | [GitHub](https://github.com/ananyaa0518)
+    - Added a comprehensive implementation of all fundamental singly linked list operations in dsa in cpp.
+
+28. Vedant Patole | [LinkedIn](https://www.linkedin.com/in/vedant-patole-92a026301/) | [GitHub](https://github.com/PatoleVedant)
+   - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
+   
+29. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+   - Added licence file and update readme.md.
+
+30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
+   - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder 
+   
+31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
+   - Added Spiral Traversal of a 2D matrix.
+    
+    
 
