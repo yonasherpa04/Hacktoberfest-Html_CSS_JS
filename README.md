@@ -16,9 +16,7 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 │ └── script.js # Main JavaScript file
 ├── dsa/ # DSA directory
 │ └── binary_search.js # Main stylesheet
-├── dsa_in_cpp #DSA directory for code in C++
-│ └── program_files.cpp #Respective program files
-└── README.md # Project documentation (this file)
+└── README.md # Project documentation
 ```
 
 ## 🚀 How to Contribute
@@ -30,6 +28,7 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 
 1. **Fork this repository** by clicking the "Fork" button at the top right of this page
 2. This will create a copy of this repository in your GitHub account
+3. Please star the repository if you find it good.
 
 ### Making Contributions
 
