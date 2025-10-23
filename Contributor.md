@@ -139,6 +139,9 @@
     
     ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
 
+    - Updated README fiel for LICENSE section for clear representation to visitors
+      - `Added in the bottom most part of README`
+
     
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
