@@ -58,6 +58,7 @@
     - Added solution to Reverse Integer problem in C++.
     - Added solution to Two Sum problem in C++.
     - Added solution to palindrome checking problem for integer in C++.
+    - Added solution to Combination Sum problem of DSA in C++.
 
 14. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
@@ -139,10 +140,13 @@
       - `css/calculator.css`
       - `js/calculator.js`
     
-    ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
+    -> `This Calculator is live at` : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator)  
 
     - Updated README fiel for LICENSE section for clear representation to visitors
       - `Added in the bottom most part of README`
+    - Added solution for "Move All Zeroes To End" in dsa_in_cpp directory with proper exmaples & description in source code comments
+      - Time Complexity = O(N)
+      - Space Complexity = O(1)
 
     
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
@@ -166,7 +170,9 @@
    - Added licence file and update readme.md.
 
 30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
-   - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder 
+   - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder
+   -Added solution for Candy(LEETCODE 135)(HARD) under dsa_in_cpp folder 
+   -Added solution for Rotting Oranges(LEETCODE 994)under dsa_in_cpp folder 
    
 31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
    - Added Spiral Traversal of a 2D matrix.
@@ -174,3 +180,10 @@
 32. Purvasha Singh | [LinkedIn](https://www.linkedin.com/in/purvasha-singh-941079333/) | [GitHub](https://github.com/purrvax)
    - Added three sum leetcode solution in three way 
    - Added a new game - Fruit Catcher
+    
+33. Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
+  - Created dsa_in_java folder structure with proper examples.
+  - Added MergeSort.java with full implementation of Merge Sort (Divide & Conquer) including comments, example input/output.
+  - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
+  - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
+  - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
