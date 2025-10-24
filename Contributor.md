@@ -168,6 +168,7 @@
 30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
    - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder
    -Added solution for Candy(LEETCODE 135)(HARD) under dsa_in_cpp folder 
+   -Added solution for Rotting Oranges(LEETCODE 994)under dsa_in_cpp folder 
    
 31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
    - Added Spiral Traversal of a 2D matrix.
