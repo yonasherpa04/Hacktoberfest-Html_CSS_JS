@@ -207,3 +207,8 @@
   - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
   - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
   - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
+
+
+34. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
+
+- Added array form of integer
