@@ -209,7 +209,9 @@
   - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
   - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
 
+34. Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
+  -  Added linked_list_cycle_hash.js -> Cycle detection in linked list using HashMap
 
-34. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
+35. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
 
 - Added array form of integer
