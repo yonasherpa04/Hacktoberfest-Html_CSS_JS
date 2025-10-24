@@ -177,8 +177,11 @@
 31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
    - Added Spiral Traversal of a 2D matrix.
     
+32. Purvasha Singh | [LinkedIn](https://www.linkedin.com/in/purvasha-singh-941079333/) | [GitHub](https://github.com/purrvax)
+   - Added three sum leetcode solution in three way 
+   - Added a new game - Fruit Catcher
     
-32. Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
+33. Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
   - Created dsa_in_java folder structure with proper examples.
   - Added MergeSort.java with full implementation of Merge Sort (Divide & Conquer) including comments, example input/output.
   - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
