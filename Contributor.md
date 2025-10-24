@@ -207,3 +207,11 @@
   - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
   - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
   - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
+
+34. Dhairyati P.| [Github Profile](https://github.com/Dhairyati)
+  - Added Recipe Finder project with separate folder structure for HTML, CSS, and JavaScript.
+  - recipe.html — main page with search input and results section.
+  - recipe.css — styling for cards, modal, and responsive layout.
+  - recipe.js — fetches recipes from TheMealDB API, creates clickable recipe cards, and opens modal with full instructions, ingredients, and YouTube link.
+  - Implemented modal functionality, dynamic card generation, and responsive design.
+  - Demonstrates API integration, DOM manipulation, and interactive UI.
