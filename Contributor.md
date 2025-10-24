@@ -71,6 +71,7 @@
     - Added solution to Two Sum problem in C++.
     - Added solution to palindrome checking problem for integer in C++.
     - Added solution to Combination Sum problem of DSA in C++.
+    - Added solution to 4Sum problem of DSA in C++.
 
 13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
 
@@ -210,3 +211,7 @@
 
 34. Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
   -  Added linked_list_cycle_hash.js -> Cycle detection in linked list using HashMap
+
+35. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
+
+- Added array form of integer
