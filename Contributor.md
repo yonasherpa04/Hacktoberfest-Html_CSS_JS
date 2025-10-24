@@ -178,4 +178,9 @@
    - Added Spiral Traversal of a 2D matrix.
     
     
-
+32. Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
+  - Created dsa_in_java folder structure with proper examples.
+  - Added MergeSort.java with full implementation of Merge Sort (Divide & Conquer) including comments, example input/output.
+  - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
+  - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
+  - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
