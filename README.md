@@ -14,7 +14,7 @@ This repository includes HTML, CSS, and JavaScript files. The folder structure i
 │ └── style.css # Main stylesheet
 ├── js/ # JavaScript files directory
 │ └── script.js # Main JavaScript file
-├── dsa/ # DSA directory
+├── dsa_in_js/ # DSA directory
 │ └── binary_search.js # Main DSA file
 └── README.md # Project documentation (this file)
 ```
