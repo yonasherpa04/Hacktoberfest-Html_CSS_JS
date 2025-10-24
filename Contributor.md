@@ -207,3 +207,6 @@
   - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
   - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
   - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
+
+34. Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
+  -  Added linked_list_cycle_hash.js -> Cycle detection in linked list using HashMap
