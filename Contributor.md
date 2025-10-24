@@ -71,6 +71,7 @@
     - Added solution to Two Sum problem in C++.
     - Added solution to palindrome checking problem for integer in C++.
     - Added solution to Combination Sum problem of DSA in C++.
+    - Added solution to 4Sum problem of DSA in C++.
 
 13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
 
