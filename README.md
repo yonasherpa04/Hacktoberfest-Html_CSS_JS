@@ -4,18 +4,18 @@ Welcome to our Hacktoberfest repository! This project is open to all developers 
 
 ## Repository Description
 
-This respository includes HTML, CSS, and JavaScript files. The folder structure is simple and clean, making it easy for contributors to understand and add their own features or improvements.
+This repository includes HTML, CSS, and JavaScript files. The folder structure is simple and clean, making it easy for contributors to understand and add their own features or improvements.
 
 ## Project Structure
 ```bash
 ├── html/ # html files directory
 │ └── index.html # Main html file
 ├── css/ # CSS stylesheets directory
-│ └── style.css # Main styleshee
+│ └── style.css # Main stylesheet
 ├── js/ # JavaScript files directory
 │ └── script.js # Main JavaScript file
 ├── dsa/ # DSA directory
-│ └── binary_search.js # Main stylesheet
+│ └── binary_search.js # Main DSA file
 └── README.md # Project documentation (this file)
 ```
 
@@ -28,6 +28,7 @@ This respository includes HTML, CSS, and JavaScript files. The folder structure 
 
 1. **Fork this repository** by clicking the "Fork" button at the top right of this page
 2. This will create a copy of this repository in your GitHub account
+3. Please star the repository if you find it good.
 
 ### Making Contributions
 
@@ -113,3 +114,8 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 ### Happy coding and happy Hacktoberfest! 🎃
 
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project for personal or commercial purposes, as long as proper credit is given to the original authors.
