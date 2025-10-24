@@ -93,7 +93,7 @@ Example:
 #### **Our Amazing Contributors ✨** <br>
 
 <a href="https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=1"/>
+  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=0"/>
 </a>
 <br>
 <br>
