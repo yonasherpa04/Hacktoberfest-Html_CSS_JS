@@ -196,6 +196,7 @@
    -Added solution for N-Queens(LEETCODE 51)under dsa_in_cpp folder 
    -Added solution for Fruits into basket(LEETCODE 904)under dsa_in_cpp folder
    -Added solution for Trapping Rainwater(LEETCODE 42)under dsa_in_cpp folder 
+   -Added solution for Best time to buy and sell stock(LEETCODE 122)under dsa_in_cpp folder 
    
 31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
    - Added Spiral Traversal of a 2D matrix.
