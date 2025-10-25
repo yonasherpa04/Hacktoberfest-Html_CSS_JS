@@ -190,3 +190,7 @@
 
 36. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
     - Added array form of integer
+
+37. Sahiba Joshi | [Linkedin Profile](https://www.linkedin.com/in/sahiba-joshi-7578aa317/) | [Github Profile](https://github.com/SA0806)
+    - Corrected Paths to CSS and JS files in quiz_app.html
+
