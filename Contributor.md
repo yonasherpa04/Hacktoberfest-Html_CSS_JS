@@ -213,3 +213,6 @@
 
 41. Kavya Zala | [LinkedIn](https://www.linkedin.com/in/kavya-zala-b5a942377) | [GitHub](https://github.com/champ-byte)
     - Added solution to merging sorted arrays.
+
+42. Varun Gupta | [LinkedIn](www.linkedin.com/in/varunn-guptaa/) | [GitHub](https://github.com/VarunThisSide)
+    - Added Binary Search topic in dsa_in_cpp section.
