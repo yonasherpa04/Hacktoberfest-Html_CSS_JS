@@ -197,3 +197,6 @@
 38. Kartikeya Gupta | [LinkedIn Profile](https://www.linkedin.com/in/kartikeyagupta05) | [GitHub Profile](https://github.com/kartikeyagupta05)
     - Added new sorting algorithms (Bubble, Selection, Insertion, Heap, Counting, Radix, and Bucket) to the Sorting section.
     - Added multiple search algorithms (Linear, Jump) to the Searching section.
+
+39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
+    - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
