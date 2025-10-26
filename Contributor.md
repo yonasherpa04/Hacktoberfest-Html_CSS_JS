@@ -205,3 +205,6 @@
 
 39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
     - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
+
+40. Kavya Zala | [LinkedIn](www.linkedin.com/in/kavya-zala-b5a942377) | [GitHub](https://github.com/champ-byte)
+    - Added solution to merging sorted arrays.
