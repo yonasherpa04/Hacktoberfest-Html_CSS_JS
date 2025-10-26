@@ -197,3 +197,5 @@
 38. Kartikeya Gupta | [LinkedIn Profile](https://www.linkedin.com/in/kartikeyagupta05) | [GitHub Profile](https://github.com/kartikeyagupta05)
     - Added new sorting algorithms (Bubble, Selection, Insertion, Heap, Counting, Radix, and Bucket) to the Sorting section.
     - Added multiple search algorithms (Linear, Jump) to the Searching section.
+    - Added linked list operations (Insertion, Deletion, Reversal) to the Linked List section. And linkedlist questions (Find middle node, Detect cycle). from LeetCode.
+    - Added tree traversals (Inorder, Preorder, Postorder) to the Tree section. And tree questions (Max depth, Symmetric tree) from LeetCode.
