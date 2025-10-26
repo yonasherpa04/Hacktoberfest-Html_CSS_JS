@@ -1,44 +1,49 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const toggle = document.getElementById('darkModeToggle');
-    const body = document.body;
-    const localStorageKey = 'theme';
+// Get the toggle switch element
+const toggleSwitch = document.getElementById('darkModeToggle');
 
-    /**
-     * Applies the selected theme class to the body.
-     * @param {string} theme - 'dark' or 'light'
-     */
-    function applyTheme(theme) {
-        if (theme === 'dark') {
-            body.classList.add('dark-theme');
-            toggle.checked = true;
-        } else {
-            body.classList.remove('dark-theme');
-            toggle.checked = false;
-        }
-    }
+// The class name to add to the HTML tag
+const darkThemeClassName = 'dark-mode';
 
-    // 1. Load Theme Preference on Page Load
-    const savedTheme = localStorage.getItem(localStorageKey);
+// The key to use for localStorage
+const storageKey = 'theme-preference';
 
-    if (savedTheme) {
-        // Use saved preference
-        applyTheme(savedTheme);
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        // Use system preference if no save preference exists
-        applyTheme('dark');
+// ---------------------------------
+// 1. Core Toggle Function
+// ---------------------------------
+
+function toggleTheme() {
+    if (toggleSwitch.checked) {
+        document.documentElement.classList.add(darkThemeClassName);
+        localStorage.setItem(storageKey, 'dark');
     } else {
-        // Default to light
-        applyTheme('light');
+        document.documentElement.classList.remove(darkThemeClassName);
+        localStorage.setItem(storageKey, 'light');
     }
+}
 
-    // 2. Event Listener for Toggling
-    toggle.addEventListener('change', () => {
-        if (toggle.checked) {
-            applyTheme('dark');
-            localStorage.setItem(localStorageKey, 'dark');
-        } else {
-            applyTheme('light');
-            localStorage.setItem(localStorageKey, 'light');
-        }
-    });
-});
+// ---------------------------------
+// 2. Initialization on Page Load
+// ---------------------------------
+
+function initializeTheme() {
+    const savedTheme = localStorage.getItem(storageKey);
+
+    // If a theme is saved, apply it
+    if (savedTheme === 'dark') {
+        document.documentElement.classList.add(darkThemeClassName);
+        toggleSwitch.checked = true; // Check the box
+    }
+    // You can also check for system preference here using: 
+    // window.matchMedia('(prefers-color-scheme: dark)').matches
+    // but for simplicity, we rely on the saved preference or default to light.
+}
+
+// ---------------------------------
+// 3. Event Listeners
+// ---------------------------------
+
+// Listen for the change event on the toggle switch
+toggleSwitch.addEventListener('change', toggleTheme);
+
+// Initialize the theme when the script loads
+initializeTheme();

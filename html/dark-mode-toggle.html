@@ -4,24 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dark Mode Toggle</title>
-    <link rel="stylesheet" href="dark-mode-toggle.css">
+    <title>Dark Mode Toggle Component</title>
+    <link rel="stylesheet" href="../css/dark-mode-toggle.css">
 </head>
 
 <body>
 
     <div class="container">
-        <h1>Dark Mode Toggle Component</h1>
+        <div class="theme-switch-wrapper">
+            <label class="theme-switch" for="darkModeToggle">
+                <input type="checkbox" id="darkModeToggle" />
+                <span class="slider round"></span>
+            </label>
+            <em>Dark Mode</em>
+        </div>
 
-        <input type="checkbox" id="darkModeToggle" class="dark-mode-input" aria-label="Toggle dark mode">
-        <label for="darkModeToggle" class="dark-mode-label">
-            <span class="ball"></span>
-        </label>
-
-        <p>This component demonstrates a pure CSS/JS dark mode switch.</p>
+        <h1>Create a Modern Dark Mode Component</h1>
+        <p>This is the content that changes color when the switch is toggled.</p>
+        <button>A Sample Button</button>
     </div>
 
-    <script src="dark-mode-toggle.js"></script>
+    <script src="../js/dark-mode-toggle.js"></script>
 </body>
 
 </html>
