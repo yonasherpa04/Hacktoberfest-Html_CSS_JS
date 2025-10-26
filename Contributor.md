@@ -61,6 +61,7 @@
     - Added solution to Combination Sum problem of DSA in C++.
     - Added solution to 4Sum problem of DSA in C++.
     - Added solution to First Missing Positive problem of DSA in C++.
+    - Added solution to Palindrome partitioning problem of DSA in C++.
 
 13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
@@ -94,6 +95,8 @@
       - Implemented BFS Traversal
       - Included an example showing how to create a graph and use your function
       - Used an Adjacency List to represent the Graph and a Queue for traversal
+    - Added Counting sort Algorithm code under the dsa file
+    - Created a dark-mode-toggle under the html,css and js file
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array
@@ -199,3 +202,6 @@
     - Added multiple search algorithms (Linear, Jump) to the Searching section.
     - Added linked list operations (Insertion, Deletion, Reversal) to the Linked List section. And linkedlist questions (Find middle node, Detect cycle). from LeetCode.
     - Added tree traversals (Inorder, Preorder, Postorder) to the Tree section. And tree questions (Max depth, Symmetric tree) from LeetCode.
+
+39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
+    - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
