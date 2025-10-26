@@ -97,6 +97,8 @@
       - Implemented BFS Traversal
       - Included an example showing how to create a graph and use your function
       - Used an Adjacency List to represent the Graph and a Queue for traversal
+    - Added Counting sort Algorithm code under the dsa file
+    - Created a dark-mode-toggle under the html,css and js file
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array
@@ -200,3 +202,14 @@
 38. Kartikeya Gupta | [LinkedIn Profile](https://www.linkedin.com/in/kartikeyagupta05) | [GitHub Profile](https://github.com/kartikeyagupta05)
     - Added new sorting algorithms (Bubble, Selection, Insertion, Heap, Counting, Radix, and Bucket) to the Sorting section.
     - Added multiple search algorithms (Linear, Jump) to the Searching section.
+    - Added linked list operations (Insertion, Deletion, Reversal) to the Linked List section. And linkedlist questions (Find middle node, Detect cycle). from LeetCode.
+    - Added tree traversals (Inorder, Preorder, Postorder) to the Tree section. And tree questions (Max depth, Symmetric tree) from LeetCode.
+
+39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
+    - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
+40. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/Sandesh282)  
+   - Added `merge_sorted_arrays.cpp` implementing merge of two sorted arrays in C++ with examples.
+   - Added Random Color Palette Generator (HTML/CSS/JS) under `tools/`.
+
+41. Kavya Zala | [LinkedIn](https://www.linkedin.com/in/kavya-zala-b5a942377) | [GitHub](https://github.com/champ-byte)
+    - Added solution to merging sorted arrays.

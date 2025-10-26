@@ -1,0 +1,163 @@
+/* ---------------------------------- */
+
+
+/* 1. CSS VARIABLES (Theme Colors)    */
+
+
+/* ---------------------------------- */
+
+:root {
+    /* LIGHT MODE COLORS */
+    --background-color: #f0f0f0;
+    --text-color: #333333;
+    --card-color: #ffffff;
+    --primary-color: #007bff;
+    --toggle-bg-color: #ccc;
+    --toggle-slider-color: #fff;
+    --transition-speed: 0.3s;
+}
+
+
+/* DARK MODE COLORS */
+
+html.dark-mode {
+    --background-color: #1a1a2e;
+    --text-color: #e4e4e4;
+    --card-color: #2c2c44;
+    --primary-color: #8c7ae6;
+    /* A lighter color for dark mode */
+    --toggle-bg-color: #666;
+    --toggle-slider-color: #f0f0f0;
+}
+
+
+/* ---------------------------------- */
+
+
+/* 2. BASE STYLES                     */
+
+
+/* ---------------------------------- */
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: sans-serif;
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 40px;
+    background-color: var(--card-color);
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    transition: background-color var(--transition-speed);
+}
+
+h1 {
+    color: var(--text-color);
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--primary-color);
+    color: var(--card-color);
+    /* Use card color which is white/light-gray */
+    cursor: pointer;
+    transition: background-color var(--transition-speed);
+}
+
+
+/* ---------------------------------- */
+
+
+/* 3. TOGGLE SWITCH STYLES            */
+
+
+/* ---------------------------------- */
+
+.theme-switch-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.theme-switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    margin-right: 10px;
+}
+
+
+/* Hide default HTML checkbox */
+
+.theme-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+
+/* The slider (the track) */
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--toggle-bg-color);
+    transition: var(--transition-speed);
+}
+
+
+/* The slider (the handle/ball) */
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: var(--toggle-slider-color);
+    transition: var(--transition-speed);
+}
+
+
+/* When checked (Dark Mode is ON) */
+
+input:checked+.slider {
+    background-color: var(--primary-color);
+    /* or a different color for ON state */
+}
+
+
+/* Move the slider handle */
+
+input:checked+.slider:before {
+    transform: translateX(26px);
+}
+
+
+/* Rounded sliders */
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
