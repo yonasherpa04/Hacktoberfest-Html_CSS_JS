@@ -208,3 +208,6 @@
 40. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/Sandesh282)  
    - Added `merge_sorted_arrays.cpp` implementing merge of two sorted arrays in C++ with examples.
    - Added Random Color Palette Generator (HTML/CSS/JS) under `tools/`.
+
+41. Kavya Zala | [LinkedIn](www.linkedin.com/in/kavya-zala-b5a942377) | [GitHub](https://github.com/champ-byte)
+    - Added solution to merging sorted arrays.
