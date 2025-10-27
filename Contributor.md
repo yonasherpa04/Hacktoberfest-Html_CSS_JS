@@ -63,7 +63,9 @@
     - Added solution to First Missing Positive problem of DSA in C++.
     - Added solution to Palindrome partitioning problem of DSA in C++.
     - Added solution to Sudoku Solver problem of DSA in C++ under ./dsa_in_cpp/backtracking folder with examples, comments, 
-      and time-space complexity
+      and time-space complexity.
+    - Added solution to Missing Number problem of DSA in C++ under ./dsa_in_cpp folder with examples, comments, 
+      and time-space complexity.
 
 13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
