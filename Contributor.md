@@ -139,10 +139,18 @@
     - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation
     - Added solution for problem "3Sum" in dsa_in_cpp directory
     - Implementing Web App (PWA) for Basic Calculator with following file directories:
-      - `This Calculator is live at` : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator)
-    - Updated README fiel for LICENSE section for clear representation to visitors
+      - `html/calculator.html`
+      - `css/calculator.css`
+      - `js/calculator.js`
+    
+    ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
+
+     - Updated README file for LICENSE section for clear representation to visitors
       - `Added in the bottom most part of README`
     - Added solution for "Move All Zeroes To End" in dsa_in_cpp directory with proper exmaples & description in source code comments
+    - Adding source code with proper documentation for Sqrt(X)
+      - Time Complexity = O(log N)
+      - Space Complexity = O(1)
 
 24. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
