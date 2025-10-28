@@ -141,8 +141,9 @@
     
     ` This Calculator is live at : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator) ` 
 
-    - Updated README fiel for LICENSE section for clear representation to visitors
-      - `Added in the bottom most part of README`
+    - Adding source code with proper documentation for Sqrt(X)
+      - Time Complexity = O(log N)
+      - Space Complexity = O(1)
 
     
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
