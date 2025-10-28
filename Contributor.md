@@ -41,7 +41,7 @@
    - Added `topologicalSort.js` and `dfsTraversal.js` under `/dsa/graph/` with detailed comments, and example outputs.
 
 10. Sahil Sanap | [LinkedIn](https://www.linkedin.com/in/sahilsanap101) | [GitHub](https://github.com/sahilsanap101)
-    - Added remove-duplicates-using-set.js under /dsa/array/ implementing removal of duplicate  
+    - Added remove-duplicates-using-set.js under /dsa/array/ implementing removal of duplicate
       elements using JavaScript Set.
       - Included example usage, comments, and time-space complexity.
       - Time Complexity: O(n)
@@ -62,9 +62,9 @@
     - Added solution to 4Sum problem of DSA in C++.
     - Added solution to First Missing Positive problem of DSA in C++.
     - Added solution to Palindrome partitioning problem of DSA in C++.
-    - Added solution to Sudoku Solver problem of DSA in C++ under ./dsa_in_cpp/backtracking folder with examples, comments, 
+    - Added solution to Sudoku Solver problem of DSA in C++ under ./dsa_in_cpp/backtracking folder with examples, comments,
       and time-space complexity.
-    - Added solution to Missing Number problem of DSA in C++ under ./dsa_in_cpp folder with examples, comments, 
+    - Added solution to Missing Number problem of DSA in C++ under ./dsa_in_cpp folder with examples, comments,
       and time-space complexity.
 
 13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
@@ -129,7 +129,7 @@
 22. Chandrasekhar Parchuri | [LinkedIn](https://www.linkedin.com/in/chandrasekhar-parchuri-2515a3311/) | [GitHub](https://github.com/chandra-011220)
     - Added Heap Sort in JS under dsa/
       - Implemented the Heap Sort algorithm using both Max Heap (ascending) and Min Heap (descending).
-      
+
 23. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
@@ -137,7 +137,7 @@
     - Added solution for Valid Anagram in dsa_in_cpp directory with proper documentation
     - Added solution for problem "3Sum" in dsa_in_cpp directory
     - Implementing Web App (PWA) for Basic Calculator with following file directories:
-      - `This Calculator is live at` : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator)  
+      - `This Calculator is live at` : [Calculator-PWA](https://ayushhardeniya.site/basic-calculator)
     - Updated README fiel for LICENSE section for clear representation to visitors
       - `Added in the bottom most part of README`
     - Added solution for "Move All Zeroes To End" in dsa_in_cpp directory with proper exmaples & description in source code comments
@@ -148,7 +148,7 @@
 
 25. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added pre-order and post-traversal method in `dsa/tree`aversal method in `dsa/tree`
-    
+
 26. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
     - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
 
@@ -163,20 +163,20 @@
 
 30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
     - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder
-    - Added solution for Candy(LEETCODE 135)(HARD) under dsa_in_cpp folder 
+    - Added solution for Candy(LEETCODE 135)(HARD) under dsa_in_cpp folder
     - Added solution for Rotting Oranges(LEETCODE 994)under dsa_in_cpp folder
-    - Added solution for N-Queens(LEETCODE 51)under dsa_in_cpp folder 
+    - Added solution for N-Queens(LEETCODE 51)under dsa_in_cpp folder
     - Added solution for Fruits into basket(LEETCODE 904)under dsa_in_cpp folder
-    - Added solution for Trapping Rainwater(LEETCODE 42)under dsa_in_cpp folder 
-    - Added solution for Best time to buy and sell stock(LEETCODE 122)under dsa_in_cpp folder 
-   
+    - Added solution for Trapping Rainwater(LEETCODE 42)under dsa_in_cpp folder
+    - Added solution for Best time to buy and sell stock(LEETCODE 122)under dsa_in_cpp folder
+
 31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
     - Added Spiral Traversal of a 2D matrix.
-    
+
 32. Purvasha Singh | [LinkedIn](https://www.linkedin.com/in/purvasha-singh-941079333/) | [GitHub](https://github.com/purrvax)
-    - Added three sum leetcode solution in three way 
+    - Added three sum leetcode solution in three way
     - Added a new game - Fruit Catcher
-    
+
 33. Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
     - Created dsa_in_java folder structure with proper examples.
     - Added MergeSort.java with full implementation of Merge Sort (Divide & Conquer) including comments, example input/output.
@@ -191,7 +191,7 @@
       - recipe.js — fetches recipes from TheMealDB API, creates clickable recipe cards, and opens modal with full instructions, ingredients, and YouTube link.
       - Implemented modal functionality, dynamic card generation, and responsive design.
       - Demonstrates API integration, DOM manipulation, and interactive UI.
-  
+
 35. Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
     - Added linked_list_cycle_hash.js -> Cycle detection in linked list using HashMap
 
@@ -209,7 +209,7 @@
 
 39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
     - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
-40. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/Sandesh282)  
+40. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/Sandesh282)
    - Added `merge_sorted_arrays.cpp` implementing merge of two sorted arrays in C++ with examples.
    - Added Random Color Palette Generator (HTML/CSS/JS) under `tools/`.
 
@@ -218,3 +218,5 @@
 
 42. Varun Gupta | [LinkedIn](www.linkedin.com/in/varunn-guptaa/) | [GitHub](https://github.com/VarunThisSide)
     - Added Binary Search topic in dsa_in_cpp section.
+43. Suvansh Tembe | [LinkedIn](https://www.linkedin.com/in/suvansh-tembe-23b81228b/) | [GitHub](https://github.com/SuvanshTembe)
+    - Added Solution Integer to Roman in cpp/string section.
