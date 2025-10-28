@@ -14,7 +14,7 @@ This repository includes HTML, CSS, and JavaScript files. The folder structure i
 │ └── style.css # Main stylesheet
 ├── js/ # JavaScript files directory
 │ └── script.js # Main JavaScript file
-├── dsa/ # DSA directory
+├── dsa_in_js/ # DSA directory
 │ └── binary_search.js # Main DSA file
 └── README.md # Project documentation (this file)
 ```
@@ -93,7 +93,7 @@ Example:
 #### **Our Amazing Contributors ✨** <br>
 
 <a href="https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=1"/>
+  <img src="https://contrib.rocks/image?repo=HarshitPachori/Hacktoberfest-Html_CSS_JS&anon=0"/>
 </a>
 <br>
 <br>
@@ -112,10 +112,8 @@ Make your first contribution and see your GitHub avatar appear here! Every contr
 - Reach out to maintainers for guidance
 
 ### Happy coding and happy Hacktoberfest! 🎃
-
 **Remember:** Quality over quantity. Make meaningful contributions that actually help the project!
 
 ## 📜 License
-
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this project for personal or commercial purposes, as long as proper credit is given to the original authors.

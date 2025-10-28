@@ -5,7 +5,7 @@ It is structured **topic-wise** so contributors can easily navigate and add new 
 
 ## 🧩 Folder Structure
 ```
-dsa/
+dsa_in_js/
 │
 ├── array/
 │   ├── findDuplicate.js
@@ -23,8 +23,6 @@ dsa/
 │   └── inorderTraversal.js
 │
 ├── binary_search.js
-├── index.js         // Node.js test runner for all functions
-├── package.json
 └── README.md
 ```
 
@@ -41,7 +39,7 @@ dsa/
 
 ## 🧠 Example File Structure
 ```javascript
-// dsa/array/findMax.js
+// dsa_in_js/array/findMax.js
 // Problem: Find the maximum element in an array.
 // Approach: Use a loop to compare elements.
 // Time Complexity: O(n)
@@ -69,7 +67,7 @@ Make sure you have [Node.js](https://nodejs.org/) (version 14 or higher) install
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd dsa
+    cd dsa_in_js
     ```
 3.  Run the following command:
     ```bash
