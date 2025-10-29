@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessible Custom Range Slider</title>
+    <link rel="stylesheet" href="custom-range-slider.css">
+    <style>
+        /* DEMO STYLES: Sets up the page for testing */
+        
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #1e1e1e;
+            color: #fff;
+            padding: 20px;
+        }
+        
+        .custom-slider-component {
+            width: 80%;
+            max-width: 500px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 25px;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="custom-slider-component">
+        <label for="volume-slider">Volume Level (0 to 100):</label>
+
+        <div class="slider-value-display" aria-hidden="true">50</div>
+
+        <input type="range" id="volume-slider" min="0" max="100" value="50" role="slider" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" />
+    </div>
+
+    <script src="custom-range-slider.js" defer></script>
+</body>
+
+</html>

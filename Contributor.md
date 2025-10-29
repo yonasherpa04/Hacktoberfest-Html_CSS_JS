@@ -106,6 +106,7 @@
       - Used an Adjacency List to represent the Graph and a Queue for traversal
     - Added Counting sort Algorithm code under the dsa file
     - Created a dark-mode-toggle under the html,css and js file
+Added solution for custom range slider 
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array

@@ -1,0 +1,90 @@
+/* --- THEME VARIABLES --- */
+
+:root {
+    --slider-color-primary: #007bff;
+    /* Thumb and filled track color */
+    --slider-color-track-default: #444;
+    --slider-thumb-size: 20px;
+    --slider-track-height: 8px;
+}
+
+
+/* --- CONTAINER & LABEL --- */
+
+.custom-slider-component {
+    position: relative;
+    width: 100%;
+    padding-top: var(--slider-thumb-size);
+    /* Space for floating value */
+}
+
+
+/* --- INPUT RESET & BASE STYLING --- */
+
+input[type=range]::-wenkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    margin: 0;
+    background: transparent;
+}
+
+
+/* --- THE TRACK --- */
+
+
+/* Base track styling (color filling is handled by JS linear-gradient) */
+
+input[type=range]::-webkit-slider-runnable-track,
+input[type=range]::-moz-range-track {
+    width: 100%;
+    height: var(--slider-track-height);
+    background: var(--slider-color-track-default);
+    border-radius: 4px;
+}
+
+
+/* --- THE THUMB --- */
+
+input[type=range]::-webkit-slider-thumb,
+input[type=range]::-moz-range-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    height: var(--slider-thumb-size);
+    width: var(--slider-thumb-size);
+    background: var(--slider-color-primary);
+    border-radius: 50%;
+    cursor: grab;
+    /* Vertically center the thumb on the track */
+    margin-top: calc( (var(--slider-track-height) / 2) - (var(--slider-thumb-size) / 2));
+    border: none;
+}
+
+
+/* --- ACCESSIBILITY: FOCUS VISIBLE (WCAG 2.4.7) --- */
+
+input[type=range]:focus-visible::-webkit-slider-thumb,
+input[type=range]:focus-visible::-moz-range-thumb {
+    /* Clear visual indicator for keyboard focus */
+    box-shadow: 0 0 0 4px #fff, 0 0 0 6px var(--slider-color-primary);
+    transform: scale(1.1);
+}
+
+
+/* --- THE FLOATING VALUE DISPLAY --- */
+
+.slider-value-display {
+    position: absolute;
+    top: 0;
+    padding: 4px 8px;
+    background: var(--slider-color-primary);
+    color: white;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: bold;
+    pointer-events: none;
+    z-index: 10;
+    transform: translateX(-50%);
+    visibility: hidden;
+    /* JS controls visibility */
+}
