@@ -164,6 +164,9 @@
 
 26. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
     - Corrected spelling typos (e.g., “respository” → “repository”, “styleshee” → “stylesheet”) and improved README formatting.
+    - added pr template
+    - added issue template
+    - added security.md
 
 27. Ananyaa | [LinkedIn](https://www.linkedin.com/in/ananyaa1805/) | [GitHub](https://github.com/ananyaa0518)
     - Added a comprehensive implementation of all fundamental singly linked list operations in dsa in cpp.
