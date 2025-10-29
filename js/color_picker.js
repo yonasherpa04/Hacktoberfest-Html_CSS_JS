@@ -208,12 +208,16 @@ hexInput.addEventListener('change', (e) => {
         hex = '#' + hex;
     }
     // Basic validation for 3 or 6 hex digits
-    if (!/^#([A-Fa-f0-9]{3}){1,2}$/.test(hex)) {
+    if (!/^#([A-Fa-f0-9]{3}|[A-Fa-f0-9]{6})$/.test(hex)) {
         alert('Invalid HEX color format. Please use #RRGGBB or #RGB.');
         updateColorPickerUI(); // Revert to current color if invalid
         return;
     }
 
+    // Expand 3-digit hex to 6-digit hex
+    if (/^#([A-Fa-f0-9]{3})$/.test(hex)) {
+        hex = '#' + hex.slice(1).split('').map(c => c + c).join('');
+    }
     const { r, g, b } = hexToRgb(hex);
     const { h: newH, s: newS, l: newL } = rgbToHsl(r, g, b);
 
