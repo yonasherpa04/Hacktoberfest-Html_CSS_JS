@@ -113,7 +113,7 @@ function hexToRgb(hex) {
 // This function updates all parts of the UI based on the current HSL values.
 function updateColorPickerUI() {
     // 1. Update the saturation/brightness area background (based on HUE)
-    sbArea.style.backgroundColor = ⁠ hsl($ { h }, 100 % , 50 % ) ⁠;
+    sbArea.style.backgroundColor = `hsl(${h}, 100%, 50%)`;
 
     // 2. Calculate and update the color outputs (HEX, RGB)
     const rgbString = hslToRgb(h, s, l);
