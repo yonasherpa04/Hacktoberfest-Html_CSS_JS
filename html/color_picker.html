@@ -1,18 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Color Picker</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <h1>🎨 Color Picker Tool</h1>
-    <input type="color" id="colorInput" value="#ff0000">
-    <p id="hex">Hex: #ff0000</p>
-    <p id="rgb">RGB: 255, 0, 0</p>
-  </div>
-  <script src="script.js"></script>
-</body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Picker</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/color_picker.css">
+
+    <body>
+        <div class="color-picker-container" role="dialog" aria-modal="true" aria-labelledby="picker-title">
+            <h3 id="picker-title">🎨 Custom Color Picker</h3>
+
+            <div class="color-area-wrapper">
+                <div class="color-saturation-brightness" id="saturation-brightness-area" role="application" aria-label="Color saturation and brightness selector">
+                    <div class="color-picker-handle" id="color-handle"></div>
+                </div>
+            </div>
+
+            <div class="hue-slider-wrapper">
+                <input type="range" min="0" max="360" value="0" class="hue-slider" id="hue-slider" role="slider" aria-valuemin="0" aria-valuemax="360" aria-valuenow="0" aria-label="Color Hue">
+            </div>
+
+            <div class="color-inputs-display">
+                <div class="current-color-preview" id="color-preview"></div>
+                <div class="input-group">
+                    <label for="hex-input">HEX:</label>
+                    <input type="text" id="hex-input" value="#000000" maxlength="7">
+                </div>
+                <div class="input-group">
+                    <label for="rgb-input">RGB:</label>
+                    <input type="text" id="rgb-input" value="rgb(0, 0, 0)">
+                </div>
+            </div>
+
+            <button id="apply-button">Apply Color</button>
+        </div>
+        <script src="../js/script.js"></script>
+        <script src="../js/color_picker.js"></script>
+    </body>
+
 </html>

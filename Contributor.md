@@ -122,3 +122,5 @@
 Added Counting sort Algorithm code under the dsa file
  Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
  -created a dark-mode-toggle.html under the html,css and js file
+ -Added Real-time Password Strength Indicator
+ -Enhanced the code for the  color picker file

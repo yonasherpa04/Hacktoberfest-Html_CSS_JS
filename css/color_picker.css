@@ -1,22 +1,298 @@
-body {
-  font-family: 'Poppins', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: #f0f0f0;
+* General Body/Container Styling */ body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f2f5;
+    /* Light background for contrast */
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
-.container {
-  text-align: center;
-  background: white;
-  padding: 30px;
-  border-radius: 15px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+
+/* Color Picker Container */
+
+.color-picker-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* Increased gap for better spacing */
+    width: 100%;
+    /* Default to full width for small screens */
+    max-width: 350px;
+    /* Max width for larger screens */
+    padding: 25px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    /* Enhanced shadow for modern look */
+    border: 1px solid #e0e0e0;
+    transition: transform 0.2s ease-in-out;
 }
 
-input[type="color"] {
-  margin: 20px 0;
-  padding: 5px;
-  cursor: pointer;
+.color-picker-container:focus-within {
+    transform: translateY(-3px);
+    /* Subtle lift on focus */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+#picker-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+    text-align: center;
+    font-size: 1.6em;
+    font-weight: 600;
+}
+
+
+/* Saturation/Brightness Area */
+
+.color-area-wrapper {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    /* Creates a perfect square */
+    border-radius: 8px;
+    overflow: hidden;
+    /* Ensures handle stays within bounds */
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+    /* Inner border for definition */
+}
+
+.color-saturation-brightness {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    cursor: crosshair;
+    /* This gradient will be updated by JS to reflect the current hue */
+    background: linear-gradient(to right, white, transparent);
+}
+
+
+/* Overlay for brightness */
+
+.color-saturation-brightness::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, black, transparent);
+    /* Black to transparent for brightness */
+    pointer-events: none;
+    /* Allows clicks to pass through */
+}
+
+
+/* Color Picker Handle */
+
+#color-handle {
+    position: absolute;
+    width: 20px;
+    /* Slightly larger handle */
+    height: 20px;
+    border: 3px solid #ffffff;
+    /* White border for visibility */
+    border-radius: 50%;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3), 0 0 5px rgba(0, 0, 0, 0.2);
+    transform: translate(-50%, -50%);
+    /* Centers the handle on the cursor */
+    pointer-events: none;
+    /* Ensures drag events target the parent */
+    z-index: 10;
+    transition: box-shadow 0.15s ease-in-out;
+}
+
+#color-handle:focus-visible {
+    /* Accessibility focus indicator */
+    outline: 2px solid royalblue;
+    outline-offset: 2px;
+}
+
+
+/* Hue Slider */
+
+.hue-slider-wrapper {
+    width: 100%;
+    height: 15px;
+    /* Taller slider for easier interaction */
+    border-radius: 8px;
+    background: linear-gradient(to right, #ff0000 0%, #ffff00 17%, #00ff00 33%, #00ffff 50%, #0000ff 67%, #ff00ff 83%, #ff0000 100%);
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    /* Keep the background within bounds */
+}
+
+.hue-slider {
+    width: 100%;
+    height: 100%;
+    -webkit-appearance: none;
+    /* Remove default styling for Chrome/Safari */
+    appearance: none;
+    background: transparent;
+    /* Make track transparent as wrapper has gradient */
+    cursor: grab;
+    margin: 0;
+    /* Remove default margin */
+}
+
+.hue-slider:focus {
+    outline: none;
+    /* Remove default focus outline */
+}
+
+
+/* Slider Thumb (Handle) */
+
+.hue-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    /* Thicker handle */
+    height: 18px;
+    border-radius: 50%;
+    background: #ffffff;
+    border: 2px solid #555;
+    /* Darker border for contrast */
+    cursor: grab;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3);
+    margin-top: -1.5px;
+    /* Vertically center the thumb */
+    /* A trick to make the thumb look like it's sliding on a track without a visible track */
+    box-shadow: -300px 0 0 300px currentColor, 300px 0 0 300px currentColor;
+    /* Extend color to fill 'track' */
+    color: transparent;
+    /* Makes the extending shadow transparent for this purpose */
+}
+
+.hue-slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #ffffff;
+    border: 2px solid #555;
+    cursor: grab;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.3);
+}
+
+.hue-slider:active {
+    cursor: grabbing;
+}
+
+.hue-slider:focus-visible::-webkit-slider-thumb {
+    /* Accessibility focus */
+    outline: 2px solid royalblue;
+    outline-offset: 3px;
+}
+
+.hue-slider:focus-visible::-moz-range-thumb {
+    /* Accessibility focus */
+    outline: 2px solid royalblue;
+    outline-offset: 3px;
+}
+
+
+/* Color Inputs Display */
+
+.color-inputs-display {
+    display: flex;
+    flex-direction: column;
+    /* Stack inputs vertically on small screens */
+    gap: 15px;
+    align-items: stretch;
+    /* Stretch items to fill width */
+}
+
+@media (min-width: 480px) {
+    /* Adjust for wider screens */
+    .color-inputs-display {
+        flex-direction: row;
+        /* Horizontal layout on wider screens */
+        align-items: center;
+    }
+}
+
+#color-preview {
+    width: 50px;
+    /* Larger preview swatch */
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background-color: #000000;
+    flex-shrink: 0;
+    /* Don't shrink preview */
+}
+
+.input-group {
+    flex-grow: 1;
+    /* Allows inputs to take available space */
+}
+
+.input-group label {
+    display: block;
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.input-group input {
+    width: 100%;
+    /* Fill parent width */
+    padding: 10px 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1em;
+    color: #333;
+    box-sizing: border-box;
+    /* Include padding/border in width */
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.input-group input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+    outline: none;
+}
+
+
+/* Apply Button */
+
+#apply-button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1em;
+    font-weight: 600;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    align-self: center;
+    /* Center the button in column layout */
+    width: 100%;
+    /* Full width on small screens */
+    max-width: 200px;
+    /* Constrain on larger screens */
+}
+
+#apply-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-1px);
+}
+
+#apply-button:active {
+    background-color: #004085;
+    transform: translateY(0);
+}
+
+#apply-button:focus-visible {
+    outline: 3px solid rgba(0, 123, 255, 0.5);
+    outline-offset: 2px;
 }
