@@ -238,3 +238,4 @@
     - Added Solution Integer to Roman in cpp/string section.
 43. Athrva Sarade | [LinkedIn](https://www.linkedin.com/in/athrva-sarade-59526232a/) | [GitHub](https://github.com/athrvas017)
     - Added Solution for Leetcode Q860 Lemonade Change.
+    - Added Solution for Leetcode Q875 koko eating  bananas
