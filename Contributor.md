@@ -105,6 +105,7 @@
       - Used an Adjacency List to represent the Graph and a Queue for traversal
     - Added Counting sort Algorithm code under the dsa file
     - Created a dark-mode-toggle under the html,css and js file
+Added solution for custom range slider 
 
 18. Indraneel Hajarnis | [LinkedIn](https://www.linkedin.com/in/indraneel-hajarnis-082438330) | [GitHub](https://github.com/Indraneel-Hajarnis)
     - Added Maximum Subarray Sum in JS under dsa/array
@@ -236,3 +237,5 @@
     - Added Binary Search topic in dsa_in_cpp section.
 43. Suvansh Tembe | [LinkedIn](https://www.linkedin.com/in/suvansh-tembe-23b81228b/) | [GitHub](https://github.com/SuvanshTembe)
     - Added Solution Integer to Roman in cpp/string section.
+43. Athrva Sarade | [LinkedIn](https://www.linkedin.com/in/athrva-sarade-59526232a/) | [GitHub](https://github.com/athrvas017)
+    - Added Solution for Leetcode Q860 Lemonade Change.
