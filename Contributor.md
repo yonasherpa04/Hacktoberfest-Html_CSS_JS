@@ -68,6 +68,8 @@
       and time-space complexity.
     - Added solution to Simple Bank System problem of DSA in C++ under ./dsa_in_cpp/linkedlist folder with examples, comments, 
       and time-space complexity.
+    - Added solution to house robber leetcde problem of DSA in C++ under ./dsa_in_cpp/string folder with examples, comments, 
+      and time-space complexity.
 
 13. Omaima Ameen | [LinkedIn](www.linkedin.com/in/omaima-ameen-24a6272a6) | [GitHub](https://github.com/Omaima-Ameen)
     - Added the Random Quote Generator project.
