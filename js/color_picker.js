@@ -214,6 +214,10 @@ hexInput.addEventListener('change', (e) => {
         return;
     }
 
+    // Normalize 3-digit hex to 6-digit format
+    if (/^#([A-Fa-f0-9]{3})$/.test(hex)) {
+        hex = '#' + hex.slice(1).split('').map(c => c + c).join('');
+    }
     // Expand 3-digit hex to 6-digit hex
     if (/^#([A-Fa-f0-9]{3})$/.test(hex)) {
         hex = '#' + hex.slice(1).split('').map(c => c + c).join('');
