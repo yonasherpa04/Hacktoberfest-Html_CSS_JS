@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
-If you discover a security vulnerability, please report it responsibly by emailing [security@example.com].  
+If you discover a security vulnerability, please report it responsibly by emailing [harshitpachori345@gmail.com].  
 We’ll review and respond within **48 hours**.
 
 Please **do not create a public issue** for security-related reports.
