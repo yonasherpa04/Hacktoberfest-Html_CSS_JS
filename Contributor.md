@@ -218,6 +218,9 @@
     - Added multiple search algorithms (Linear, Jump) to the Searching section.
     - Added linked list operations (Insertion, Deletion, Reversal) to the Linked List section. And linkedlist questions (Find middle node, Detect cycle). from LeetCode.
     - Added tree traversals (Inorder, Preorder, Postorder) to the Tree section. And tree questions (Max depth, Symmetric tree) from LeetCode.
+    - Added graph traversals (BFS, DFS) to the Graph section. And graph questions (Number of islands, Clone graph, bipartite check, cycle detection etc.) from LeetCode.
+    - Added backtracking problems (N-Queens, Subsets, Permutations) to the Backtracking section.
+
 
 39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
     - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
