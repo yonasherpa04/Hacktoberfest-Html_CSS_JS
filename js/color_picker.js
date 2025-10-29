@@ -56,7 +56,7 @@ function hslToRgb(h, s, l) {
     g = Math.round((g + m) * 255);
     b = Math.round((b + m) * 255);
 
-    return⁠  rgb($ { r }, $ { g }, $ { b }) ⁠;
+    return `rgb(${r}, ${g}, ${b})`;
 }
 
 // RGB to HSL conversion (needed if you parse RGB input directly)
