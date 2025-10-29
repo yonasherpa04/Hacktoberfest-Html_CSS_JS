@@ -224,6 +224,8 @@
     - Added tree traversals (Inorder, Preorder, Postorder) to the Tree section. And tree questions (Max depth, Symmetric tree) from LeetCode.
     - Added graph traversals (BFS, DFS) to the Graph section. And graph questions (Number of islands, Clone graph, bipartite check, cycle detection etc.) from LeetCode.
     - Added backtracking problems (N-Queens, Subsets, Permutations) to the Backtracking section.
+    - Added Stack Questions (Valid Parentheses, Min Stack, Max Stack) from LeetCode.
+    - Added Queue Questions (Implement Stack using Queues, Sliding Window Maximum) from LeetCode.
 
 
 39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
