@@ -236,3 +236,5 @@
     - Added Binary Search topic in dsa_in_cpp section.
 43. Suvansh Tembe | [LinkedIn](https://www.linkedin.com/in/suvansh-tembe-23b81228b/) | [GitHub](https://github.com/SuvanshTembe)
     - Added Solution Integer to Roman in cpp/string section.
+43. Athrva Sarade | [LinkedIn](https://www.linkedin.com/in/athrva-sarade-59526232a/) | [GitHub](https://github.com/athrvas017)
+    - Added Solution for Leetcode Q860 Lemonade Change.
