@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessible Toast Component</title>
+    <link rel="stylesheet" href="toast_notification.css">
+</head>
+
+<body>
+
+    <h1>Accessible Toast Demo</h1>
+    <p>Click the buttons below to show different toast types.</p>
+
+    <button onclick="showToast('Success! Your data was saved.', 'success')">Show Success</button>
+    <button onclick="showToast('Error: Failed to process request.', 'error')">Show Error</button>
+
+    <div id="toast-container" aria-live="polite">
+    </div>
+
+    <script src="toast_notification.js"></script>
+</body>
+
+</html>

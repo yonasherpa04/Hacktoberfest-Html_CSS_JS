@@ -1,0 +1,63 @@
+:root {
+    /* CSS Variables for Theming (Goal 3) */
+    --toast-success: #4CAF50;
+    /* Green */
+    --toast-error: #f44336;
+    /* Red */
+    --toast-text-color: #ffffff;
+    --toast-bg-default: #333;
+}
+
+#toast-container {
+    /* Fixed Positioning (Requirement 1) */
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    /* Stacking for multiple toasts */
+    display: flex;
+    flex-direction: column-reverse;
+    /* Newest toast appears on top */
+    gap: 10px;
+    z-index: 1000;
+}
+
+.toast {
+    padding: 12px 20px;
+    border-radius: 4px;
+    color: var(--toast-text-color);
+    background-color: var(--toast-bg-default);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* Animation and Initial State */
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-out;
+    transform: translateX(100%);
+}
+
+.toast.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+
+/* Theme Classes */
+
+.toast-success {
+    background-color: var(--toast-success);
+}
+
+.toast-error {
+    background-color: var(--toast-error);
+}
+
+.toast-close-btn {
+    background: none;
+    border: none;
+    color: inherit;
+    font-size: 1.2em;
+    margin-left: 15px;
+    cursor: pointer;
+    line-height: 1;
+}
